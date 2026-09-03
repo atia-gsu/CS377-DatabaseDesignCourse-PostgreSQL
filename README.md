@@ -1,2 +1,2 @@
-# CS170-Final-Project
-My CS170-Final Project github repository
+# CS377-DatabaseDesignCourse-PostgreSQL
+Hi, I'm Atia Sultana. I taught Database Design at Ursinus College, guiding upper-level Computer Science students through logical and physical database management systems. I designed and delivered practical coursework centered on ER modeling and application integration using PostgreSQL as the primary relational database platform. In addition to core instruction, I mentored students through small hands-on projects and a final cumulative project using various datasets.
