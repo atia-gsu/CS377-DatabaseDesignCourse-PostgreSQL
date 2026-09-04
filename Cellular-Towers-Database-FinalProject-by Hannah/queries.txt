@@ -1,0 +1,230 @@
+SELECT
+	p.ping_id,
+	d.device_id,
+	d.phone_number,
+	t.tower_name,
+	r.municipality,
+	r.county,
+	p.ping_time,
+	p.signal_strength,
+	e.event_name
+FROM pings p
+JOIN devices d
+	ON p.device_id = d.device_id
+JOIN towers t
+	ON p.tower_id = t.tower_id
+JOIN regions r
+	ON t.region_id = r.region_id
+JOIN event_types e
+	ON p.event_type_id = e.event_type_id
+WHERE d.device_id BETWEEN 1 AND 25
+AND p.ping_time BETWEEN '08:00:00' AND '08:30:00'
+--AND e.event_name = 'Call Start'
+ORDER BY p.ping_time;
+
+
+SELECT
+	device_id,
+	phone_number,
+	carrier,
+	device_type
+FROM devices
+WHERE phone_number LIKE '610%'
+AND device_id BETWEEN 1 AND 50
+ORDER BY phone_number;
+
+
+SELECT
+	t.tower_id,
+	t.tower_name,
+	r.municipality,
+	r.county,
+	r.state,
+	t.carrier
+FROM towers t
+JOIN regions r
+	ON t.region_id = r.region_id
+WHERE t.tower_id BETWEEN 1 AND 25
+ORDER BY r.county, r.municipality, t.tower_name;
+
+
+SELECT
+	r.county,
+	COUNT(t.tower_id) AS total_towers
+FROM towers t
+JOIN regions r
+	ON t.region_id = r.region_id
+GROUP BY r.county
+ORDER BY total_towers DESC, r.county;
+
+
+-- Find the strongest, weakest, and average signal strength by tower
+
+SELECT 
+    tower_id,
+    MAX(signal_strength) AS strongest_signal,
+    MIN(signal_strength) AS weakest_signal,
+    AVG(signal_strength) AS avg_signal
+FROM Pings
+GROUP BY tower_id
+ORDER BY tower_id;
+
+
+-- Show counties with more than 2 towers
+
+SELECT 
+    r.county,
+    COUNT(t.tower_id) AS total_towers
+FROM Towers t
+JOIN Regions r
+    ON t.region_id = r.region_id
+GROUP BY r.county
+HAVING COUNT(t.tower_id) > 2
+ORDER BY total_towers DESC;
+
+
+-- Find all devices using major PA area codes
+
+SELECT 
+    device_id,
+    phone_number
+FROM Devices
+WHERE LEFT(phone_number, 3) IN ('610', '484', '215', '267')
+ORDER BY phone_number;
+
+
+-- Show unique carriers in the database
+
+SELECT DISTINCT carrier
+FROM Devices
+ORDER BY carrier;
+
+
+-- Create full location display for towers
+
+SELECT 
+    tower_name,
+    CONCAT(r.municipality, ', ', r.county, ', ', r.state) AS full_location
+FROM Towers t
+JOIN Regions r
+    ON t.region_id = r.region_id;
+
+
+-- Rank towers by total pings
+
+SELECT 
+    tower_id,
+    COUNT(*) AS total_pings,
+    DENSE_RANK() OVER (ORDER BY COUNT(*) DESC) AS tower_rank
+FROM Pings
+GROUP BY tower_id;
+
+
+-- Find all phones with 610 area code and iPhone users
+
+SELECT 
+    phone_number,
+    device_type
+FROM Devices
+WHERE LEFT(phone_number, 3) = '610'
+AND device_type LIKE '%iPhone%';
+
+
+-- CTE Function: Find towers with above-average total pings
+
+WITH TowerPingCounts AS (
+    SELECT 
+        tower_id,
+        COUNT(*) AS total_pings
+    FROM Pings
+    GROUP BY tower_id
+)
+
+SELECT *
+FROM TowerPingCounts
+WHERE total_pings > (
+    SELECT AVG(total_pings)
+    FROM TowerPingCounts
+)
+ORDER BY total_pings DESC;
+
+
+-- Returns all pings for a given device within a time range
+
+CREATE OR REPLACE FUNCTION get_device_pings_in_time_range(
+    input_device_id INT,
+    start_time TIME,
+    end_time TIME
+)
+RETURNS TABLE (
+    ping_id INT,
+    phone_number VARCHAR,
+    tower_name VARCHAR,
+    municipality VARCHAR,
+    county VARCHAR,
+    state VARCHAR,
+    ping_time TIME,
+    signal_strength INT,
+    event_name VARCHAR
+)
+AS $$
+BEGIN
+    RETURN QUERY
+    SELECT 
+        p.ping_id,
+        d.phone_number,
+        t.tower_name,
+        r.municipality,
+        r.county,
+        r.state,
+        p.ping_time::TIME,
+        p.signal_strength,
+        e.event_name
+    FROM Pings p
+    JOIN Devices d
+        ON p.device_id = d.device_id
+    JOIN Towers t
+        ON p.tower_id = t.tower_id
+    JOIN Regions r
+        ON t.region_id = r.region_id
+    JOIN Event_Types e
+        ON p.event_type_id = e.event_type_id
+    WHERE p.device_id = input_device_id
+    AND p.ping_time::TIME BETWEEN start_time AND end_time
+    ORDER BY p.ping_time;
+END;
+$$ LANGUAGE plpgsql;
+
+SELECT *
+FROM get_device_pings_in_time_range(35, '08:00:00', '12:00:00');
+
+
+SELECT
+    c.call_id,
+    c.caller_device_id,
+    c.receiver_device_id,
+    t.tower_name,
+    r.municipality,
+    r.county,
+    c.start_time,
+    c.end_time
+FROM calls c
+JOIN towers t ON c.tower_id = t.tower_id
+JOIN regions r ON t.region_id = r.region_id
+WHERE c.caller_device_id <> c.receiver_device_id
+ORDER BY r.county, r.municipality, c.start_time;
+
+
+SELECT
+    d.device_id,
+    d.phone_number,
+    t.tower_name,
+    r.municipality,
+    r.county,
+    COUNT(*) AS ping_count
+FROM pings p
+JOIN devices d ON p.device_id = d.device_id
+JOIN towers t ON p.tower_id = t.tower_id
+JOIN regions r ON t.region_id = r.region_id
+GROUP BY d.device_id, d.phone_number, t.tower_name, r.municipality, r.county
+ORDER BY d.device_id, ping_count DESC;

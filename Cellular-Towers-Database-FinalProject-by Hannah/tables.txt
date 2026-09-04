@@ -1,0 +1,57 @@
+CREATE TABLE regions (
+	region_id INT PRIMARY KEY,
+	municipality VARCHAR(100),
+	county VARCHAR(100),
+	state VARCHAR(100)
+);
+
+CREATE TABLE event_types (
+	event_type_id INT PRIMARY KEY,
+	event_name VARCHAR(50)
+);
+
+CREATE TABLE towers (
+	tower_id INT PRIMARY KEY,
+	license VARCHAR(50),
+	tower_name VARCHAR(100),
+	address VARCHAR(255),
+	region_id INT,
+	latitude DECIMAL(11,8),
+	longitude DECIMAL(11,8),
+	FOREIGN KEY (region_id) REFERENCES regions(region_id)
+);
+
+CREATE TABLE devices (
+	device_id INT PRIMARY KEY,
+	phone_number VARCHAR(20) UNIQUE,
+	carrier VARCHAR(50),
+	device_type VARCHAR(50),
+	imei VARCHAR(50)
+);
+
+CREATE TABLE pings (
+	ping_id INT PRIMARY KEY,
+	device_id INT,
+	tower_id INT,
+	ping_date DATE,
+	ping_time TIME,
+	signal_strength INT,
+	event_type_id INT,
+	FOREIGN KEY (device_id) REFERENCES devices(device_id),
+	FOREIGN KEY (tower_id) REFERENCES towers(tower_id),
+	FOREIGN KEY (event_type_id) REFERENCES event_types(event_type_id)
+);
+
+CREATE TABLE calls (
+	call_id INT PRIMARY KEY,
+	caller_device_id INT,
+	receiver_device_id INT,
+	start_date DATE,
+	start_time TIME,
+	end_date DATE,
+	end_time TIME,
+	tower_id INT,
+	FOREIGN KEY (caller_device_id) REFERENCES devices(device_id),
+	FOREIGN KEY (receiver_device_id) REFERENCES devices(device_id),
+	FOREIGN KEY (tower_id) REFERENCES towers(tower_id)
+);
