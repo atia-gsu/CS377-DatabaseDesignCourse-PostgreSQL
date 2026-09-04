@@ -1,0 +1,301 @@
+series_id,publisher_id,title,start_year,end_year,genre,description
+1,5,The Spectacular Warriors,1973,,Humor,One hero stands alone against an empire of darkness.
+2,3,The Incredible Guardians,2013,2014,Fantasy,"In a world gone mad, only outlaws can restore order."
+3,18,The Astonishing Watch,1941,1964,Crime,"In a world gone mad, only outlaws can restore order."
+4,6,The Cosmic Strike,1973,1974,Humor,A new generation must carry the weight of a broken legacy.
+5,11,The Secret Order,1957,,Horror,One hero stands alone against an empire of darkness.
+6,9,The Shadow Legion,1983,2003,Anthology,A team of unlikely heroes must unite to prevent catastrophe.
+7,3,The Cosmic Crusaders,1953,1966,Romance,The line between hero and villain has never been thinner.
+8,3,The Immortal Corps,2011,,Superhero,"In a world gone mad, only outlaws can restore order."
+9,9,The Deadly Guardians,1967,1980,Dark Superhero,"Ancient evil returns, and the old ways may be the only hope."
+10,9,The Dark Corps,1983,,Humor,One hero stands alone against an empire of darkness.
+11,15,The Immortal Syndicate,2006,2012,Crime,The line between hero and villain has never been thinner.
+12,2,The Incredible Division,1979,2004,Fantasy,A team of unlikely heroes must unite to prevent catastrophe.
+13,19,The Secret Unit,1972,,Humor,"Ancient evil returns, and the old ways may be the only hope."
+14,15,The Last Assembly,1988,2009,Science Fiction,The line between hero and villain has never been thinner.
+15,19,The Savage Division,2009,2021,Crime,"The final war begins, and no one will emerge unchanged."
+16,17,The Shadow Corps,1966,1971,Dark Superhero,One hero stands alone against an empire of darkness.
+17,14,The Uncanny Legion,1957,1983,Western,One hero stands alone against an empire of darkness.
+18,9,The Shadow Unit,2014,2023,Romance,A team of unlikely heroes must unite to prevent catastrophe.
+19,4,The Spectacular Crusaders,1972,1983,Action,A new generation must carry the weight of a broken legacy.
+20,9,The Dark Collective,1938,1967,Romance,Long-buried secrets threaten to destroy everything they built.
+21,17,The Astonishing Legion,2018,,Western,"In a world gone mad, only outlaws can restore order."
+22,17,The Savage Corps,1958,1983,Superhero,"The final war begins, and no one will emerge unchanged."
+23,12,The Secret Assembly,1940,,Anthology,The line between hero and villain has never been thinner.
+24,3,The Eternal Defenders,1968,1971,Humor,"When gods fall, mortals must rise to fill the void."
+25,16,The Mighty Crusaders,1954,,Romance,Long-buried secrets threaten to destroy everything they built.
+26,18,The Invincible Vanguard,2015,2019,Anthology,"In a world gone mad, only outlaws can restore order."
+27,15,The Deadly Unit,1985,2002,Horror,"In a world gone mad, only outlaws can restore order."
+28,18,The Eternal Guardians,1981,,Fantasy,"The final war begins, and no one will emerge unchanged."
+29,8,The Eternal Warriors,1947,1949,Horror,A team of unlikely heroes must unite to prevent catastrophe.
+30,16,The Secret Guardians,2003,,Fantasy,Two enemies discover they share a common enemy.
+31,16,The Savage Strike,2011,2024,Anthology,A new generation must carry the weight of a broken legacy.
+32,14,The Last Legion,1950,1962,Crime,"When gods fall, mortals must rise to fill the void."
+33,8,The Uncanny Unit,1981,1985,Fantasy,"In a world gone mad, only outlaws can restore order."
+34,15,The Incredible Collective,1955,1964,Fantasy,One hero stands alone against an empire of darkness.
+35,8,The Spectacular Defenders,2007,2010,Science Fiction,A new generation must carry the weight of a broken legacy.
+36,2,The Blazing Assembly,1965,1994,Science Fiction,A new generation must carry the weight of a broken legacy.
+37,15,The Amazing Unit,1971,1997,Action,A new generation must carry the weight of a broken legacy.
+38,7,The Incredible Assembly,1957,,Superhero,"The final war begins, and no one will emerge unchanged."
+39,19,The Incredible Defenders,1978,,Dark Superhero,Two enemies discover they share a common enemy.
+40,6,The Astonishing Syndicate,1945,1948,Horror,"The final war begins, and no one will emerge unchanged."
+41,19,The Mighty Division,1989,,Fantasy,"The final war begins, and no one will emerge unchanged."
+42,19,The Immortal Defenders,2017,,Western,Two enemies discover they share a common enemy.
+43,5,The Last Force,1968,,War,The line between hero and villain has never been thinner.
+44,20,The Cosmic Force,1947,,Western,One hero stands alone against an empire of darkness.
+45,12,The Last Vanguard,1971,,Horror,"In a world gone mad, only outlaws can restore order."
+46,10,The Hidden Circle,1958,1976,Western,Two enemies discover they share a common enemy.
+47,5,The Amazing Crusaders,1976,1980,Action,One hero stands alone against an empire of darkness.
+48,11,The Savage Order,1974,1997,Fantasy,The line between hero and villain has never been thinner.
+49,2,The Astonishing Assembly,1970,1998,Horror,A new generation must carry the weight of a broken legacy.
+50,5,The Invincible Defenders,1938,,War,The line between hero and villain has never been thinner.
+51,3,The Incredible Patrol,2009,,Humor,Long-buried secrets threaten to destroy everything they built.
+52,5,The Hidden Strike,2008,,Superhero,The line between hero and villain has never been thinner.
+53,8,The Hidden Defenders,1983,,War,One hero stands alone against an empire of darkness.
+54,5,The Hidden Crusaders,1990,2014,Fantasy,Long-buried secrets threaten to destroy everything they built.
+55,11,The Dark Patrol,1941,,Anthology,A new generation must carry the weight of a broken legacy.
+56,13,The Eternal Order,1958,1962,Superhero,"When gods fall, mortals must rise to fill the void."
+57,8,The Eternal Alliance,1996,,Fantasy,A team of unlikely heroes must unite to prevent catastrophe.
+58,3,The Last Unit,1980,,Anthology,The line between hero and villain has never been thinner.
+59,18,The Hidden Vanguard,1989,2016,Mystery,A team of unlikely heroes must unite to prevent catastrophe.
+60,2,The Spectacular Order,1960,1969,Horror,"The final war begins, and no one will emerge unchanged."
+61,4,The Iron Corps,1978,1995,Crime,"The final war begins, and no one will emerge unchanged."
+62,17,The Last Order,1943,1944,Anthology,Two enemies discover they share a common enemy.
+63,11,The Last Corps,1993,,Western,"Ancient evil returns, and the old ways may be the only hope."
+64,14,The Spectacular Circle,2002,,Mystery,A new generation must carry the weight of a broken legacy.
+65,13,The Deadly Crusaders,1954,,War,Long-buried secrets threaten to destroy everything they built.
+66,1,The Immortal Strike,1976,2003,Action,The line between hero and villain has never been thinner.
+67,15,The Last Patrol,2012,2018,Dark Superhero,"When gods fall, mortals must rise to fill the void."
+68,20,The Blazing Syndicate,1948,,Mystery,One hero stands alone against an empire of darkness.
+69,1,The Eternal Circle,1966,1971,Superhero,"In a world gone mad, only outlaws can restore order."
+70,19,The Blazing Watch,1947,1976,Fantasy,A new generation must carry the weight of a broken legacy.
+71,1,The Blazing Unit,1969,,Anthology,One hero stands alone against an empire of darkness.
+72,17,The Iron Division,1960,1983,Dark Superhero,A team of unlikely heroes must unite to prevent catastrophe.
+73,17,The Spectacular Collective,1955,1977,Romance,"The final war begins, and no one will emerge unchanged."
+74,18,The Secret Collective,2016,2023,Dark Superhero,Long-buried secrets threaten to destroy everything they built.
+75,9,The Blazing Collective,1971,1998,Anthology,Two enemies discover they share a common enemy.
+76,10,The Blazing Division,1973,1996,Fantasy,The line between hero and villain has never been thinner.
+77,5,The Secret Force,2007,,Fantasy,A new generation must carry the weight of a broken legacy.
+78,18,The Savage Alliance,1946,1957,Dark Superhero,A new generation must carry the weight of a broken legacy.
+79,19,The Uncanny Alliance,1991,,Humor,A team of unlikely heroes must unite to prevent catastrophe.
+80,12,The Fearless Unit,1999,,Action,A new generation must carry the weight of a broken legacy.
+81,16,The Iron Crusaders,2007,2015,Fantasy,The line between hero and villain has never been thinner.
+82,13,The Iron Assembly,1941,,Humor,Long-buried secrets threaten to destroy everything they built.
+83,19,The Cosmic Brotherhood,2017,2021,Western,A team of unlikely heroes must unite to prevent catastrophe.
+84,2,The Mighty Patrol,1955,1961,Action,A new generation must carry the weight of a broken legacy.
+85,13,The Secret Alliance,1996,,Action,A new generation must carry the weight of a broken legacy.
+86,18,The Invincible Guardians,1998,,Superhero,"Ancient evil returns, and the old ways may be the only hope."
+87,1,The Uncanny Warriors,1969,,Western,Long-buried secrets threaten to destroy everything they built.
+88,7,The Eternal Brotherhood,1998,2017,Dark Superhero,The line between hero and villain has never been thinner.
+89,6,The Hidden Syndicate,2015,2017,Action,One hero stands alone against an empire of darkness.
+90,13,The Fearless Warriors,1977,2007,Crime,"In a world gone mad, only outlaws can restore order."
+91,10,The Mighty Strike,2018,,War,"The final war begins, and no one will emerge unchanged."
+92,14,The Spectacular Strike,1943,,War,"Ancient evil returns, and the old ways may be the only hope."
+93,14,The Mighty Vanguard,2020,,Dark Superhero,One hero stands alone against an empire of darkness.
+94,20,The Iron Syndicate,2004,2013,Anthology,Two enemies discover they share a common enemy.
+95,8,The Iron Strike,1972,,Horror,The line between hero and villain has never been thinner.
+96,13,The Cosmic Division,1997,2019,Mystery,A team of unlikely heroes must unite to prevent catastrophe.
+97,9,The Blazing Force,1961,1973,Mystery,The line between hero and villain has never been thinner.
+98,7,The Immortal Order,2009,,Horror,"In a world gone mad, only outlaws can restore order."
+99,13,The Cosmic Warriors,1949,,Humor,"In a world gone mad, only outlaws can restore order."
+100,12,The Deadly Strike,1985,2002,Crime,Two enemies discover they share a common enemy.
+101,9,The Secret Corps,1996,,Fantasy,One hero stands alone against an empire of darkness.
+102,19,The Dark Alliance,1965,1974,Anthology,Two enemies discover they share a common enemy.
+103,8,The Immortal Circle,1950,1960,Mystery,Long-buried secrets threaten to destroy everything they built.
+104,2,The Deadly Warriors,2006,,Superhero,Two enemies discover they share a common enemy.
+105,4,The Deadly Brotherhood,2019,2023,Superhero,"The final war begins, and no one will emerge unchanged."
+106,2,The Deadly Assembly,1999,2005,Action,"When gods fall, mortals must rise to fill the void."
+107,2,The Spectacular Guardians,1989,2008,Science Fiction,Long-buried secrets threaten to destroy everything they built.
+108,18,The Fearless Circle,1948,1952,Anthology,A new generation must carry the weight of a broken legacy.
+109,17,The Immortal Watch,2017,,Crime,"When gods fall, mortals must rise to fill the void."
+110,19,The Cosmic Circle,2013,2018,Western,A team of unlikely heroes must unite to prevent catastrophe.
+111,3,The Immortal Legion,1964,1973,Science Fiction,"In a world gone mad, only outlaws can restore order."
+112,14,The Dark Crusaders,1947,,Dark Superhero,"The final war begins, and no one will emerge unchanged."
+113,10,The Blazing Circle,1942,,Humor,"When gods fall, mortals must rise to fill the void."
+114,8,The Invincible Strike,1963,1981,War,Long-buried secrets threaten to destroy everything they built.
+115,10,The Invincible Brotherhood,1947,,Western,"The final war begins, and no one will emerge unchanged."
+116,13,The Deadly Collective,1953,1963,Action,Two enemies discover they share a common enemy.
+117,14,The Cosmic Guardians,2014,,Humor,"Ancient evil returns, and the old ways may be the only hope."
+118,19,The Amazing Guardians,1967,1994,Western,A team of unlikely heroes must unite to prevent catastrophe.
+119,9,The Uncanny Syndicate,1998,2013,Science Fiction,"The final war begins, and no one will emerge unchanged."
+120,4,The Mighty Assembly,1982,1993,Science Fiction,"Ancient evil returns, and the old ways may be the only hope."
+121,1,The Secret Legion,1989,2016,War,Two enemies discover they share a common enemy.
+122,12,The Cosmic Patrol,1944,,Western,"When gods fall, mortals must rise to fill the void."
+123,5,The Cosmic Defenders,1964,,Action,"When gods fall, mortals must rise to fill the void."
+124,8,The Blazing Legion,1941,1961,Humor,Long-buried secrets threaten to destroy everything they built.
+125,4,The Iron Guardians,1966,1996,Dark Superhero,One hero stands alone against an empire of darkness.
+126,14,The Savage Assembly,1975,1984,Dark Superhero,"When gods fall, mortals must rise to fill the void."
+127,7,The Eternal Collective,2008,,Western,Two enemies discover they share a common enemy.
+128,14,The Savage Guardians,1973,2001,Mystery,Two enemies discover they share a common enemy.
+129,19,The Invincible Warriors,1974,2001,Western,"When gods fall, mortals must rise to fill the void."
+130,18,The Savage Collective,2006,2017,Anthology,Two enemies discover they share a common enemy.
+131,8,The Shadow Collective,1979,2002,Western,A new generation must carry the weight of a broken legacy.
+132,16,The Eternal Patrol,1943,,Humor,A new generation must carry the weight of a broken legacy.
+133,17,The Shadow Brotherhood,2001,2006,Western,"Ancient evil returns, and the old ways may be the only hope."
+134,5,The Spectacular Vanguard,1996,,Crime,Long-buried secrets threaten to destroy everything they built.
+135,3,The Invincible Force,2017,2023,Mystery,Two enemies discover they share a common enemy.
+136,18,The Shadow Force,2018,2022,Superhero,"The final war begins, and no one will emerge unchanged."
+137,4,The Deadly Division,1949,1953,Dark Superhero,Long-buried secrets threaten to destroy everything they built.
+138,12,The Uncanny Force,1945,,Crime,Long-buried secrets threaten to destroy everything they built.
+139,6,The Eternal Vanguard,1990,2016,Science Fiction,Long-buried secrets threaten to destroy everything they built.
+140,16,The Mighty Watch,1986,1994,Western,Long-buried secrets threaten to destroy everything they built.
+141,15,The Invincible Collective,1970,1999,Action,Two enemies discover they share a common enemy.
+142,10,The Dark Guardians,1994,2013,War,A new generation must carry the weight of a broken legacy.
+143,8,The Deadly Alliance,1987,1991,Crime,"The final war begins, and no one will emerge unchanged."
+144,13,The Deadly Circle,1940,1962,Action,A team of unlikely heroes must unite to prevent catastrophe.
+145,8,The Fearless Defenders,2015,2020,Western,"Ancient evil returns, and the old ways may be the only hope."
+146,15,The Savage Legion,2018,2021,Superhero,"The final war begins, and no one will emerge unchanged."
+147,14,The Hidden Brotherhood,1949,1960,Science Fiction,"In a world gone mad, only outlaws can restore order."
+148,9,The Savage Crusaders,1984,2014,Science Fiction,The line between hero and villain has never been thinner.
+149,13,The Shadow Crusaders,1984,,Superhero,The line between hero and villain has never been thinner.
+150,9,The Incredible Legion,1996,,Western,A new generation must carry the weight of a broken legacy.
+151,18,The Hidden Legion,1967,1987,Mystery,"The final war begins, and no one will emerge unchanged."
+152,2,The Iron Legion,1955,,Action,"When gods fall, mortals must rise to fill the void."
+153,13,The Spectacular Legion,1968,1973,Dark Superhero,"Ancient evil returns, and the old ways may be the only hope."
+154,16,The Fearless Brotherhood,1991,2018,Western,A new generation must carry the weight of a broken legacy.
+155,12,The Hidden Alliance,1994,2002,Horror,"Ancient evil returns, and the old ways may be the only hope."
+156,7,The Incredible Corps,1945,,Horror,"When gods fall, mortals must rise to fill the void."
+157,2,The Mighty Alliance,2020,2021,Anthology,"Ancient evil returns, and the old ways may be the only hope."
+158,7,The Fearless Alliance,1946,1964,Western,"In a world gone mad, only outlaws can restore order."
+159,1,The Eternal Force,1956,1976,Action,Long-buried secrets threaten to destroy everything they built.
+160,5,The Invincible Syndicate,1952,1953,Superhero,"Ancient evil returns, and the old ways may be the only hope."
+161,9,The Eternal Strike,1979,,Superhero,Long-buried secrets threaten to destroy everything they built.
+162,15,The Iron Vanguard,1952,1968,Anthology,"Ancient evil returns, and the old ways may be the only hope."
+163,20,The Astonishing Strike,1951,1959,Superhero,Two enemies discover they share a common enemy.
+164,4,The Amazing Defenders,1999,2013,Dark Superhero,"When gods fall, mortals must rise to fill the void."
+165,5,The Mighty Guardians,1979,1982,Action,"The final war begins, and no one will emerge unchanged."
+166,20,The Fearless Crusaders,1979,,Romance,The line between hero and villain has never been thinner.
+167,18,The Cosmic Vanguard,2015,2017,Humor,"In a world gone mad, only outlaws can restore order."
+168,15,The Iron Collective,1967,1994,Crime,A new generation must carry the weight of a broken legacy.
+169,9,The Spectacular Force,1992,,Mystery,Long-buried secrets threaten to destroy everything they built.
+170,14,The Blazing Guardians,1949,1952,Horror,"Ancient evil returns, and the old ways may be the only hope."
+171,4,The Uncanny Strike,2009,2020,Crime,"Ancient evil returns, and the old ways may be the only hope."
+172,4,The Iron Defenders,1974,1986,Western,Two enemies discover they share a common enemy.
+173,4,The Last Brotherhood,1999,,Mystery,Two enemies discover they share a common enemy.
+174,20,The Incredible Watch,2016,2017,War,The line between hero and villain has never been thinner.
+175,11,The Amazing Syndicate,1972,1982,Mystery,A team of unlikely heroes must unite to prevent catastrophe.
+176,5,The Dark Brotherhood,2010,2012,Humor,A team of unlikely heroes must unite to prevent catastrophe.
+177,11,The Secret Syndicate,1985,,Anthology,"The final war begins, and no one will emerge unchanged."
+178,20,The Immortal Guardians,1944,,Superhero,One hero stands alone against an empire of darkness.
+179,17,The Immortal Collective,1991,,Horror,"Ancient evil returns, and the old ways may be the only hope."
+180,13,The Blazing Vanguard,1977,,Western,A team of unlikely heroes must unite to prevent catastrophe.
+181,5,The Amazing Alliance,1976,2001,Anthology,The line between hero and villain has never been thinner.
+182,14,The Deadly Force,1953,,Science Fiction,Long-buried secrets threaten to destroy everything they built.
+183,3,The Mighty Unit,1943,1958,Mystery,"The final war begins, and no one will emerge unchanged."
+184,1,The Shadow Patrol,1975,,Mystery,Long-buried secrets threaten to destroy everything they built.
+185,14,The Hidden Guardians,1993,2001,Western,A new generation must carry the weight of a broken legacy.
+186,11,The Astonishing Guardians,1988,2012,Fantasy,"Ancient evil returns, and the old ways may be the only hope."
+187,12,The Astonishing Vanguard,1962,1974,Humor,Long-buried secrets threaten to destroy everything they built.
+188,6,The Eternal Legion,1956,,Western,Long-buried secrets threaten to destroy everything they built.
+189,19,The Mighty Syndicate,2018,2023,Dark Superhero,"The final war begins, and no one will emerge unchanged."
+190,15,The Immortal Force,2018,,Horror,"When gods fall, mortals must rise to fill the void."
+191,15,The Uncanny Corps,2002,,Dark Superhero,A team of unlikely heroes must unite to prevent catastrophe.
+192,2,The Immortal Vanguard,1987,2005,Dark Superhero,"The final war begins, and no one will emerge unchanged."
+193,2,The Immortal Assembly,2002,,Dark Superhero,One hero stands alone against an empire of darkness.
+194,17,The Uncanny Division,1994,2011,Western,Long-buried secrets threaten to destroy everything they built.
+195,11,The Hidden Corps,1974,,War,"The final war begins, and no one will emerge unchanged."
+196,10,The Mighty Force,1950,1963,Action,"The final war begins, and no one will emerge unchanged."
+197,12,The Savage Force,1948,1953,Action,A new generation must carry the weight of a broken legacy.
+198,13,The Savage Watch,1948,,War,"Ancient evil returns, and the old ways may be the only hope."
+199,17,The Savage Vanguard,1949,1963,Mystery,A team of unlikely heroes must unite to prevent catastrophe.
+200,10,The Last Division,1955,,Anthology,One hero stands alone against an empire of darkness.
+201,11,The Astonishing Crusaders,2005,,Anthology,"The final war begins, and no one will emerge unchanged."
+202,15,The Dark Syndicate,2017,2019,Superhero,A new generation must carry the weight of a broken legacy.
+203,15,The Hidden Division,1994,2019,Fantasy,Two enemies discover they share a common enemy.
+204,15,The Blazing Alliance,1985,2004,Dark Superhero,The line between hero and villain has never been thinner.
+205,7,The Shadow Vanguard,2005,2011,Anthology,"The final war begins, and no one will emerge unchanged."
+206,17,The Uncanny Assembly,1985,1989,Horror,The line between hero and villain has never been thinner.
+207,8,The Astonishing Brotherhood,1993,,Dark Superhero,"Ancient evil returns, and the old ways may be the only hope."
+208,12,The Amazing Patrol,1944,,Fantasy,A new generation must carry the weight of a broken legacy.
+209,4,The Mighty Corps,1966,,Humor,"Ancient evil returns, and the old ways may be the only hope."
+210,16,The Savage Brotherhood,1942,,Humor,Long-buried secrets threaten to destroy everything they built.
+211,7,The Immortal Warriors,1948,,Science Fiction,Two enemies discover they share a common enemy.
+212,20,The Deadly Legion,1944,,Dark Superhero,One hero stands alone against an empire of darkness.
+213,19,The Spectacular Assembly,2014,2023,Fantasy,Long-buried secrets threaten to destroy everything they built.
+214,19,The Deadly Patrol,1938,1946,Crime,Long-buried secrets threaten to destroy everything they built.
+215,13,The Incredible Warriors,1987,1989,Mystery,The line between hero and villain has never been thinner.
+216,4,The Amazing Corps,1946,,Anthology,"The final war begins, and no one will emerge unchanged."
+217,11,The Secret Brotherhood,1943,,War,Long-buried secrets threaten to destroy everything they built.
+218,5,The Cosmic Assembly,2018,,Horror,"When gods fall, mortals must rise to fill the void."
+219,7,The Uncanny Circle,1963,,Superhero,"Ancient evil returns, and the old ways may be the only hope."
+220,16,The Deadly Vanguard,1988,2006,Action,A team of unlikely heroes must unite to prevent catastrophe.
+221,11,The Last Circle,1983,1985,Action,One hero stands alone against an empire of darkness.
+222,13,The Hidden Patrol,1989,2018,Mystery,Long-buried secrets threaten to destroy everything they built.
+223,4,The Iron Watch,1961,1972,Horror,"Ancient evil returns, and the old ways may be the only hope."
+224,15,The Cosmic Watch,1992,,Mystery,"When gods fall, mortals must rise to fill the void."
+225,2,The Immortal Patrol,1973,1999,Horror,A new generation must carry the weight of a broken legacy.
+226,15,The Dark Warriors,1956,1978,Superhero,Long-buried secrets threaten to destroy everything they built.
+227,15,The Shadow Strike,1942,1964,Mystery,"Ancient evil returns, and the old ways may be the only hope."
+228,9,The Astonishing Corps,1988,,Fantasy,One hero stands alone against an empire of darkness.
+229,7,The Last Watch,1974,1990,Horror,Long-buried secrets threaten to destroy everything they built.
+230,3,The Mighty Collective,1960,1975,Anthology,"Ancient evil returns, and the old ways may be the only hope."
+231,6,The Incredible Crusaders,1975,2003,Humor,Long-buried secrets threaten to destroy everything they built.
+232,19,The Eternal Assembly,1941,,Mystery,"When gods fall, mortals must rise to fill the void."
+233,10,The Incredible Brotherhood,2016,2018,Crime,"When gods fall, mortals must rise to fill the void."
+234,5,The Astonishing Patrol,1990,1993,Mystery,One hero stands alone against an empire of darkness.
+235,18,The Cosmic Collective,2004,,War,"The final war begins, and no one will emerge unchanged."
+236,8,The Deadly Syndicate,1958,,Mystery,Two enemies discover they share a common enemy.
+237,5,The Invincible Alliance,2019,2022,War,The line between hero and villain has never been thinner.
+238,19,The Immortal Crusaders,1949,1955,Western,Long-buried secrets threaten to destroy everything they built.
+239,19,The Dark Watch,2015,,Superhero,A team of unlikely heroes must unite to prevent catastrophe.
+240,7,The Mighty Defenders,2020,2023,Anthology,"The final war begins, and no one will emerge unchanged."
+241,10,The Amazing Assembly,2018,2024,Dark Superhero,"In a world gone mad, only outlaws can restore order."
+242,2,The Shadow Circle,1996,,Science Fiction,"When gods fall, mortals must rise to fill the void."
+243,11,The Cosmic Alliance,1981,1992,Humor,"Ancient evil returns, and the old ways may be the only hope."
+244,15,The Secret Division,1997,,Fantasy,Long-buried secrets threaten to destroy everything they built.
+245,11,The Eternal Syndicate,1979,2003,Fantasy,Long-buried secrets threaten to destroy everything they built.
+246,10,The Last Strike,1983,,Dark Superhero,"The final war begins, and no one will emerge unchanged."
+247,12,The Spectacular Patrol,1955,1979,Anthology,A new generation must carry the weight of a broken legacy.
+248,18,The Shadow Defenders,2010,2016,Action,One hero stands alone against an empire of darkness.
+249,4,The Invincible Watch,2016,,Crime,"Ancient evil returns, and the old ways may be the only hope."
+250,20,The Secret Crusaders,1984,1991,Romance,A new generation must carry the weight of a broken legacy.
+251,11,The Astonishing Defenders,1943,,Anthology,"When gods fall, mortals must rise to fill the void."
+252,5,The Astonishing Collective,1957,1974,Mystery,"The final war begins, and no one will emerge unchanged."
+253,17,The Shadow Watch,1976,1993,Romance,"When gods fall, mortals must rise to fill the void."
+254,4,The Blazing Warriors,1985,,Crime,"The final war begins, and no one will emerge unchanged."
+255,17,The Fearless Division,1944,1950,War,"The final war begins, and no one will emerge unchanged."
+256,11,The Fearless Legion,1962,,Crime,Long-buried secrets threaten to destroy everything they built.
+257,16,The Iron Alliance,1990,2010,Humor,A team of unlikely heroes must unite to prevent catastrophe.
+258,17,The Last Crusaders,1979,1995,Crime,"Ancient evil returns, and the old ways may be the only hope."
+259,9,The Incredible Force,2007,,Western,"When gods fall, mortals must rise to fill the void."
+260,10,The Invincible Crusaders,1976,,Anthology,The line between hero and villain has never been thinner.
+261,13,The Invincible Circle,1953,1971,Crime,"Ancient evil returns, and the old ways may be the only hope."
+262,3,The Savage Circle,1943,,Mystery,"When gods fall, mortals must rise to fill the void."
+263,18,The Invincible Assembly,1965,,Action,Two enemies discover they share a common enemy.
+264,2,The Spectacular Watch,2013,,War,Two enemies discover they share a common enemy.
+265,11,The Eternal Division,1944,,Humor,"When gods fall, mortals must rise to fill the void."
+266,6,The Spectacular Brotherhood,1938,1968,Crime,"When gods fall, mortals must rise to fill the void."
+267,18,The Deadly Defenders,1949,1957,Humor,A team of unlikely heroes must unite to prevent catastrophe.
+268,10,The Dark Defenders,1988,1994,Superhero,A team of unlikely heroes must unite to prevent catastrophe.
+269,17,The Secret Circle,1996,2014,Dark Superhero,Long-buried secrets threaten to destroy everything they built.
+270,7,The Amazing Force,1975,2000,Science Fiction,"The final war begins, and no one will emerge unchanged."
+271,6,The Astonishing Force,1949,1953,Science Fiction,"When gods fall, mortals must rise to fill the void."
+272,9,The Amazing Order,1987,,Mystery,The line between hero and villain has never been thinner.
+273,12,The Fearless Strike,1939,,Humor,"In a world gone mad, only outlaws can restore order."
+274,4,The Dark Unit,2002,2012,War,The line between hero and villain has never been thinner.
+275,5,The Hidden Watch,1966,,Dark Superhero,Long-buried secrets threaten to destroy everything they built.
+276,3,The Incredible Alliance,1969,1989,Romance,"When gods fall, mortals must rise to fill the void."
+277,6,The Incredible Vanguard,1963,1968,Mystery,Two enemies discover they share a common enemy.
+278,3,The Cosmic Legion,1964,1980,Romance,"When gods fall, mortals must rise to fill the void."
+279,19,The Uncanny Collective,1954,1969,Superhero,Two enemies discover they share a common enemy.
+280,14,The Uncanny Guardians,1998,,Science Fiction,Long-buried secrets threaten to destroy everything they built.
+281,5,The Spectacular Syndicate,2006,,Humor,"In a world gone mad, only outlaws can restore order."
+282,18,The Amazing Warriors,1976,2000,Crime,Two enemies discover they share a common enemy.
+283,9,The Shadow Division,1969,1974,Fantasy,One hero stands alone against an empire of darkness.
+284,8,The Uncanny Patrol,2016,2017,Fantasy,One hero stands alone against an empire of darkness.
+285,2,The Eternal Crusaders,1965,1990,Science Fiction,Two enemies discover they share a common enemy.
+286,11,The Fearless Force,2011,2022,Fantasy,The line between hero and villain has never been thinner.
+287,6,The Deadly Order,1945,1964,War,A new generation must carry the weight of a broken legacy.
+288,13,The Secret Patrol,1990,,Science Fiction,Two enemies discover they share a common enemy.
+289,17,The Uncanny Crusaders,1990,2008,Science Fiction,A new generation must carry the weight of a broken legacy.
+290,2,The Uncanny Order,1986,2006,Horror,"In a world gone mad, only outlaws can restore order."
+291,16,The Last Alliance,1953,1978,Fantasy,"The final war begins, and no one will emerge unchanged."
+292,8,The Hidden Force,1990,,Humor,Long-buried secrets threaten to destroy everything they built.
+293,5,The Incredible Strike,2012,2017,Fantasy,"Ancient evil returns, and the old ways may be the only hope."
+294,18,The Eternal Unit,2010,2018,War,"Ancient evil returns, and the old ways may be the only hope."
+295,2,The Uncanny Vanguard,1942,1945,Anthology,A team of unlikely heroes must unite to prevent catastrophe.
+296,5,The Iron Brotherhood,2018,,Superhero,"In a world gone mad, only outlaws can restore order."
+297,18,The Iron Warriors,1940,1949,Action,A team of unlikely heroes must unite to prevent catastrophe.
+298,7,The Dark Legion,1950,1958,Western,Two enemies discover they share a common enemy.
+299,12,The Invincible Corps,1972,1975,Crime,"When gods fall, mortals must rise to fill the void."
+300,17,The Blazing Patrol,2020,2021,Superhero,"In a world gone mad, only outlaws can restore order."

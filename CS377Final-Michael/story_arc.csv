@@ -1,0 +1,201 @@
+arc_id,title,publisher_id,start_date,end_date,description
+1,Dark Heroes,8,2004-07-12,2005-05-19,The villain wins — and the heroes must live with the consequences.
+2,Age of the Machine,3,1998-09-17,2000-04-27,The last stand — not everyone will make it out alive.
+3,End of Shadows,7,1940-09-03,1941-01-06,The villain wins — and the heroes must live with the consequences.
+4,Trial of the Divide,7,1940-05-19,1942-01-13,A crossover event that touched every title in the line.
+5,End of the Fallen,9,1978-04-20,1980-01-13,A universe-spanning event that reshapes the status quo forever.
+6,Fall of the Abyss,5,1968-07-11,1969-05-21,The villain wins — and the heroes must live with the consequences.
+7,Curse of the Machine,4,1946-04-28,1947-06-21,"The first domino falls, setting off a chain of catastrophic events."
+8,Legacy of the Divide,15,1961-09-24,1961-12-07,A crossover event that touched every title in the line.
+9,Dark Destiny,10,1945-01-26,1946-09-13,The last stand — not everyone will make it out alive.
+10,Legacy of the Sentinel,2,1955-04-02,1955-07-12,The villain wins — and the heroes must live with the consequences.
+11,Return of the Cosmos,4,2014-09-26,2015-06-21,An intimate two-character story with massive implications.
+12,Death of the Titan,6,1995-01-12,1996-02-19,"The first domino falls, setting off a chain of catastrophic events."
+13,Legacy of Judgment,3,1998-02-15,1998-12-15,The last stand — not everyone will make it out alive.
+14,Fall of the Remnant,6,2003-06-01,2004-03-07,"The definitive origin story, told for the first time in full."
+15,Dawn of Chaos,8,1995-06-02,1997-01-22,"The first domino falls, setting off a chain of catastrophic events."
+16,Secret the Fallen,11,2011-09-23,2011-11-24,An intimate two-character story with massive implications.
+17,Death of the Cosmos,11,1956-12-05,1958-08-07,The villain wins — and the heroes must live with the consequences.
+18,Siege of Destiny,15,2017-05-15,2019-04-03,Heroes from across time must unite against an impossible threat.
+19,Death of the Phoenix,18,1960-02-16,1961-10-12,"A quiet, character-driven arc exploring loss and identity."
+20,Escape from the Abyss,13,2018-07-19,2020-04-06,"The first domino falls, setting off a chain of catastrophic events."
+21,War of the Phoenix,3,1983-09-18,1985-03-06,A universe-spanning event that reshapes the status quo forever.
+22,Dark the Phoenix,14,1994-04-17,1994-10-27,The last stand — not everyone will make it out alive.
+23,Infinite Destiny,15,1972-03-27,1973-12-27,A crossover event that touched every title in the line.
+24,Death of the Remnant,4,2015-03-24,2015-05-04,A crossover event that touched every title in the line.
+25,Death of the Storm,14,1948-01-04,1948-11-29,Heroes from across time must unite against an impossible threat.
+26,Birth of Heroes,17,2002-10-13,2003-08-08,Heroes from across time must unite against an impossible threat.
+27,Trial of the Machine,10,2016-02-06,2017-12-07,A crossover event that touched every title in the line.
+28,Wrath of Judgment,6,1951-09-18,1952-11-03,A crossover event that touched every title in the line.
+29,Trial of Heroes,16,1991-09-26,1992-09-21,A universe-spanning event that reshapes the status quo forever.
+30,Dark Vengeance,8,2016-10-31,2017-10-10,A universe-spanning event that reshapes the status quo forever.
+31,War of the Sentinel,16,1945-01-24,1945-05-21,Decades of secrets come to a head in this explosive arc.
+32,Hunt for the Phoenix,16,1949-07-09,1951-06-14,A crossover event that touched every title in the line.
+33,Fall of Chaos,14,1985-05-04,1987-02-14,The villain wins — and the heroes must live with the consequences.
+34,Hunt for Judgment,13,2001-12-17,2002-12-01,"The first domino falls, setting off a chain of catastrophic events."
+35,Birth of the Hollow,8,1978-07-04,1978-12-04,The villain wins — and the heroes must live with the consequences.
+36,Infinite the Storm,18,1939-11-21,1941-08-14,The villain wins — and the heroes must live with the consequences.
+37,Escape from the Fallen,2,1938-08-24,1938-12-04,The villain wins — and the heroes must live with the consequences.
+38,Infinite Shadows,3,2015-02-14,2016-02-17,A crossover event that touched every title in the line.
+39,War of Chaos,7,1998-01-07,1999-06-18,A crossover event that touched every title in the line.
+40,Age of the Sentinel,8,1989-09-11,1991-02-07,"The definitive origin story, told for the first time in full."
+41,End of Judgment,14,1946-06-18,1946-10-25,"The first domino falls, setting off a chain of catastrophic events."
+42,End of the Abyss,4,1979-11-25,1980-02-18,A universe-spanning event that reshapes the status quo forever.
+43,Dawn of the Storm,8,2009-10-28,2010-03-18,The villain wins — and the heroes must live with the consequences.
+44,Rise of the Remnant,14,1978-04-01,1978-09-21,Heroes from across time must unite against an impossible threat.
+45,War of the Cosmos,4,1977-10-03,1979-05-19,A universe-spanning event that reshapes the status quo forever.
+46,Hunt for Heroes,6,1946-05-15,1947-02-11,An intimate two-character story with massive implications.
+47,Siege of the Architect,2,1957-03-06,1958-05-20,Heroes from across time must unite against an impossible threat.
+48,Dawn of Heroes,15,1973-01-10,1973-11-07,"A quiet, character-driven arc exploring loss and identity."
+49,End of the Remnant,5,1997-05-19,1998-10-29,The villain wins — and the heroes must live with the consequences.
+50,Return of Judgment,18,1943-04-01,1944-12-14,A universe-spanning event that reshapes the status quo forever.
+51,Curse of Shadows,16,1942-07-02,1944-03-21,A crossover event that touched every title in the line.
+52,Trial of Reckoning,3,1943-02-07,1944-08-10,Heroes from across time must unite against an impossible threat.
+53,Infinite the Divide,8,1944-02-05,1946-01-26,An intimate two-character story with massive implications.
+54,Dark the Sentinel,20,1960-02-02,1961-10-16,A universe-spanning event that reshapes the status quo forever.
+55,Wrath of the Cosmos,19,1975-08-12,1977-07-15,The last stand — not everyone will make it out alive.
+56,Trial of the Storm,11,1961-05-24,1962-01-18,The villain wins — and the heroes must live with the consequences.
+57,Death of Destiny,10,1949-09-28,1951-09-15,"The definitive origin story, told for the first time in full."
+58,Curse of the Cosmos,20,1938-11-02,1940-03-15,The last stand — not everyone will make it out alive.
+59,Dark the Cosmos,17,1986-03-27,1986-11-30,"A quiet, character-driven arc exploring loss and identity."
+60,Age of Vengeance,8,2017-01-10,2017-04-20,"The first domino falls, setting off a chain of catastrophic events."
+61,Return of Reckoning,10,1977-04-24,1978-12-01,The last stand — not everyone will make it out alive.
+62,Hunt for Eternity,5,1997-07-07,1997-11-20,"A quiet, character-driven arc exploring loss and identity."
+63,Dark the Machine,5,2004-08-09,2006-03-28,"A quiet, character-driven arc exploring loss and identity."
+64,Return of the Divide,7,1956-11-23,1957-12-09,"A quiet, character-driven arc exploring loss and identity."
+65,Trial of the Architect,3,1960-07-12,1960-10-02,An intimate two-character story with massive implications.
+66,Death of Shadows,5,1938-04-27,1939-05-03,"A quiet, character-driven arc exploring loss and identity."
+67,Fall of the Titan,18,1987-06-30,1988-10-09,A universe-spanning event that reshapes the status quo forever.
+68,Age of the Remnant,19,1941-03-26,1942-05-08,A crossover event that touched every title in the line.
+69,Age of the Abyss,10,1949-06-08,1949-08-19,"The first domino falls, setting off a chain of catastrophic events."
+70,Secret Vengeance,8,1956-11-05,1958-11-03,Decades of secrets come to a head in this explosive arc.
+71,Legacy of the Remnant,20,2017-04-27,2018-07-17,Heroes from across time must unite against an impossible threat.
+72,War of Reckoning,14,2009-10-05,2010-05-04,A universe-spanning event that reshapes the status quo forever.
+73,Fall of the Storm,8,2008-03-11,2009-06-05,"A quiet, character-driven arc exploring loss and identity."
+74,Fall of the Machine,16,1972-04-27,1972-07-05,The villain wins — and the heroes must live with the consequences.
+75,Rise of the Titan,8,1969-05-15,1970-04-22,The villain wins — and the heroes must live with the consequences.
+76,Final Judgment,9,1973-09-30,1974-10-01,Decades of secrets come to a head in this explosive arc.
+77,Death of Vengeance,13,1995-07-21,1997-01-22,A crossover event that touched every title in the line.
+78,Curse of Heroes,6,1948-05-07,1949-02-28,The last stand — not everyone will make it out alive.
+79,Dark the Divide,11,1976-12-26,1978-01-13,An intimate two-character story with massive implications.
+80,Wrath of the Hollow,19,1948-05-17,1949-07-15,The villain wins — and the heroes must live with the consequences.
+81,End of Heroes,7,1984-08-23,1986-03-27,"The first domino falls, setting off a chain of catastrophic events."
+82,End of the Cosmos,20,1997-08-04,1998-08-07,"The first domino falls, setting off a chain of catastrophic events."
+83,Dark Eternity,14,1983-07-01,1984-06-11,"The first domino falls, setting off a chain of catastrophic events."
+84,Dawn of Eternity,7,1987-09-27,1988-03-05,An intimate two-character story with massive implications.
+85,Dawn of Reckoning,10,1993-03-22,1994-11-24,An intimate two-character story with massive implications.
+86,Return of Eternity,19,1956-11-09,1958-02-22,The last stand — not everyone will make it out alive.
+87,Curse of the Titan,7,1977-08-20,1978-12-15,A crossover event that touched every title in the line.
+88,Siege of Reckoning,10,1997-02-09,1997-06-05,A crossover event that touched every title in the line.
+89,Wrath of the Storm,10,1946-05-19,1947-02-13,The villain wins — and the heroes must live with the consequences.
+90,Rise of the Phoenix,8,1940-03-11,1940-05-27,"The definitive origin story, told for the first time in full."
+91,Birth of the Abyss,19,2017-07-01,2019-05-06,The villain wins — and the heroes must live with the consequences.
+92,Dawn of the Architect,5,1973-11-08,1974-08-14,A universe-spanning event that reshapes the status quo forever.
+93,Dark the Abyss,17,1957-08-19,1958-03-17,"The definitive origin story, told for the first time in full."
+94,Secret the Remnant,15,1960-05-10,1960-10-11,Heroes from across time must unite against an impossible threat.
+95,Hunt for the Divide,20,1966-06-20,1967-10-16,A crossover event that touched every title in the line.
+96,Birth of Reckoning,15,2004-09-19,2006-02-17,"A quiet, character-driven arc exploring loss and identity."
+97,Birth of the Cosmos,8,2002-01-06,2002-11-24,"A quiet, character-driven arc exploring loss and identity."
+98,Curse of the Storm,3,2018-02-12,2019-09-18,Heroes from across time must unite against an impossible threat.
+99,Age of the Fallen,7,1972-05-13,1972-11-15,Decades of secrets come to a head in this explosive arc.
+100,Curse of the Remnant,2,1979-10-20,1981-01-17,The villain wins — and the heroes must live with the consequences.
+101,End of Destiny,1,2019-03-06,2020-11-23,The last stand — not everyone will make it out alive.
+102,Final Vengeance,14,1964-10-15,1965-12-18,A crossover event that touched every title in the line.
+103,War of the Architect,14,1957-09-08,1958-07-14,"The definitive origin story, told for the first time in full."
+104,Final Destiny,13,1968-02-27,1970-02-10,Heroes from across time must unite against an impossible threat.
+105,Birth of the Phoenix,1,1993-10-29,1995-05-28,An intimate two-character story with massive implications.
+106,Escape from the Sentinel,3,1997-06-25,1997-08-21,An intimate two-character story with massive implications.
+107,Age of the Titan,9,1954-04-21,1954-07-11,An intimate two-character story with massive implications.
+108,Curse of Judgment,11,1978-10-17,1979-10-16,An intimate two-character story with massive implications.
+109,Death of the Abyss,16,1960-08-19,1960-12-10,A universe-spanning event that reshapes the status quo forever.
+110,Hunt for Shadows,3,1969-05-25,1970-02-08,A universe-spanning event that reshapes the status quo forever.
+111,Final the Fallen,20,1955-11-20,1956-01-09,Heroes from across time must unite against an impossible threat.
+112,Siege of the Machine,15,1988-08-06,1989-04-16,"A quiet, character-driven arc exploring loss and identity."
+113,Legacy of Reckoning,4,1992-05-10,1994-02-20,Heroes from across time must unite against an impossible threat.
+114,Return of the Machine,10,1989-12-01,1990-01-26,The last stand — not everyone will make it out alive.
+115,Dawn of Destiny,3,2002-02-23,2002-10-14,The last stand — not everyone will make it out alive.
+116,War of the Machine,20,2000-07-19,2001-06-22,Decades of secrets come to a head in this explosive arc.
+117,Escape from Shadows,14,1969-02-24,1970-09-22,"The first domino falls, setting off a chain of catastrophic events."
+118,Infinite the Hollow,1,1996-02-04,1997-02-17,An intimate two-character story with massive implications.
+119,End of Vengeance,5,1995-01-08,1996-05-22,An intimate two-character story with massive implications.
+120,Fall of the Hollow,20,1996-05-10,1997-03-12,A crossover event that touched every title in the line.
+121,Siege of the Titan,9,1977-01-28,1978-10-26,"The first domino falls, setting off a chain of catastrophic events."
+122,War of the Titan,13,1989-02-14,1990-11-30,"The first domino falls, setting off a chain of catastrophic events."
+123,Final the Architect,6,2014-05-06,2015-05-03,"The definitive origin story, told for the first time in full."
+124,Rise of Vengeance,11,2009-07-30,2010-05-20,"A quiet, character-driven arc exploring loss and identity."
+125,Wrath of Chaos,17,1987-11-12,1987-12-22,The villain wins — and the heroes must live with the consequences.
+126,Infinite the Fallen,16,2002-08-08,2003-10-28,A crossover event that touched every title in the line.
+127,Final the Cosmos,13,1964-05-25,1965-02-05,The villain wins — and the heroes must live with the consequences.
+128,Return of the Sentinel,18,1971-02-09,1972-07-07,A crossover event that touched every title in the line.
+129,Legacy of the Abyss,11,2004-12-02,2006-07-18,"The first domino falls, setting off a chain of catastrophic events."
+130,Birth of Chaos,8,1965-07-05,1966-04-18,Decades of secrets come to a head in this explosive arc.
+131,Rise of the Storm,6,1948-09-22,1950-04-23,The villain wins — and the heroes must live with the consequences.
+132,Rise of the Architect,17,1962-10-22,1964-07-16,The last stand — not everyone will make it out alive.
+133,Rise of Eternity,6,1958-05-30,1959-07-03,"A quiet, character-driven arc exploring loss and identity."
+134,Final the Remnant,2,1949-05-10,1950-03-16,A universe-spanning event that reshapes the status quo forever.
+135,Age of the Architect,19,1947-03-16,1947-04-27,"A quiet, character-driven arc exploring loss and identity."
+136,Birth of the Storm,9,1954-07-17,1954-10-07,"The definitive origin story, told for the first time in full."
+137,Infinite the Sentinel,5,1994-06-21,1994-09-13,Heroes from across time must unite against an impossible threat.
+138,Escape from Eternity,4,1945-08-23,1946-06-03,A crossover event that touched every title in the line.
+139,End of the Divide,8,1991-06-25,1993-04-18,A crossover event that touched every title in the line.
+140,Dawn of the Titan,10,2019-07-04,2020-10-29,The last stand — not everyone will make it out alive.
+141,End of Eternity,2,1989-01-05,1990-11-01,The last stand — not everyone will make it out alive.
+142,Dark Judgment,9,1994-02-12,1994-10-16,Decades of secrets come to a head in this explosive arc.
+143,Fall of the Fallen,3,1953-08-05,1955-03-23,Heroes from across time must unite against an impossible threat.
+144,Final the Abyss,16,1978-06-02,1980-03-01,"A quiet, character-driven arc exploring loss and identity."
+145,Escape from Judgment,18,1976-02-21,1976-07-17,The villain wins — and the heroes must live with the consequences.
+146,Age of Chaos,3,2012-02-29,2012-08-22,A universe-spanning event that reshapes the status quo forever.
+147,Fall of Eternity,10,1991-05-21,1993-01-22,"The definitive origin story, told for the first time in full."
+148,Dark the Titan,13,1999-10-14,2000-09-19,"A quiet, character-driven arc exploring loss and identity."
+149,Trial of the Remnant,3,1982-04-20,1983-08-11,The last stand — not everyone will make it out alive.
+150,Secret the Abyss,20,2003-11-25,2004-11-19,"A quiet, character-driven arc exploring loss and identity."
+151,Escape from Heroes,9,2006-08-11,2008-07-29,The last stand — not everyone will make it out alive.
+152,Secret Reckoning,15,1980-03-18,1981-09-30,"A quiet, character-driven arc exploring loss and identity."
+153,Fall of the Sentinel,16,1977-02-08,1978-12-20,Decades of secrets come to a head in this explosive arc.
+154,Siege of Vengeance,11,1974-08-20,1975-08-26,Decades of secrets come to a head in this explosive arc.
+155,End of the Architect,13,1963-11-10,1965-10-18,A crossover event that touched every title in the line.
+156,Secret the Titan,9,1945-11-25,1946-11-12,"The first domino falls, setting off a chain of catastrophic events."
+157,Hunt for the Titan,7,1975-01-28,1975-04-23,A crossover event that touched every title in the line.
+158,Secret Judgment,5,1961-12-16,1963-07-31,"A quiet, character-driven arc exploring loss and identity."
+159,Birth of the Architect,20,1948-11-22,1949-01-20,The villain wins — and the heroes must live with the consequences.
+160,Hunt for the Abyss,4,1946-05-13,1947-01-28,"The definitive origin story, told for the first time in full."
+161,Siege of Eternity,14,1983-08-27,1984-07-01,"The definitive origin story, told for the first time in full."
+162,Siege of the Fallen,5,1978-12-24,1980-08-09,An intimate two-character story with massive implications.
+163,Rise of the Divide,3,1983-08-07,1984-01-23,"A quiet, character-driven arc exploring loss and identity."
+164,End of the Storm,9,2008-09-01,2010-03-04,A universe-spanning event that reshapes the status quo forever.
+165,Siege of the Phoenix,16,1978-01-23,1979-08-27,"The first domino falls, setting off a chain of catastrophic events."
+166,Hunt for Destiny,7,1978-11-07,1979-11-01,The villain wins — and the heroes must live with the consequences.
+167,Escape from Destiny,2,1958-12-15,1960-03-09,"The first domino falls, setting off a chain of catastrophic events."
+168,Dawn of the Phoenix,5,1982-06-09,1982-08-15,A crossover event that touched every title in the line.
+169,Escape from the Storm,15,2016-01-10,2016-05-21,Decades of secrets come to a head in this explosive arc.
+170,Trial of the Titan,14,1939-05-18,1939-11-11,Heroes from across time must unite against an impossible threat.
+171,Infinite the Architect,11,2008-02-12,2008-12-09,The last stand — not everyone will make it out alive.
+172,Dawn of the Cosmos,18,2014-06-01,2015-06-02,An intimate two-character story with massive implications.
+173,Curse of the Architect,2,2016-04-07,2017-11-12,The last stand — not everyone will make it out alive.
+174,Return of the Fallen,14,2004-12-30,2005-05-01,Decades of secrets come to a head in this explosive arc.
+175,Final Shadows,10,1967-02-07,1967-05-05,"The first domino falls, setting off a chain of catastrophic events."
+176,Trial of the Abyss,6,1988-10-09,1990-10-07,Heroes from across time must unite against an impossible threat.
+177,Fall of the Cosmos,20,1992-09-05,1993-10-31,The villain wins — and the heroes must live with the consequences.
+178,Siege of the Sentinel,15,1950-11-03,1951-07-28,"A quiet, character-driven arc exploring loss and identity."
+179,Final the Titan,18,2018-11-07,2019-09-27,Heroes from across time must unite against an impossible threat.
+180,Infinite the Titan,10,1969-01-01,1970-09-24,An intimate two-character story with massive implications.
+181,Dark the Fallen,12,1972-03-19,1973-11-24,The last stand — not everyone will make it out alive.
+182,Death of Heroes,20,1988-10-09,1988-12-28,"The definitive origin story, told for the first time in full."
+183,Wrath of Vengeance,7,1957-08-25,1959-07-07,The last stand — not everyone will make it out alive.
+184,Dark Shadows,2,1965-09-19,1967-01-13,The last stand — not everyone will make it out alive.
+185,Legacy of the Phoenix,11,1946-02-01,1946-12-30,An intimate two-character story with massive implications.
+186,Fall of Judgment,12,1949-11-09,1951-06-14,A crossover event that touched every title in the line.
+187,Trial of Chaos,9,2012-07-03,2013-01-17,"The definitive origin story, told for the first time in full."
+188,Return of the Storm,15,2010-02-25,2010-07-22,Decades of secrets come to a head in this explosive arc.
+189,Dawn of the Remnant,13,1970-10-25,1971-02-24,A universe-spanning event that reshapes the status quo forever.
+190,Legacy of Chaos,12,1990-06-11,1991-08-05,Decades of secrets come to a head in this explosive arc.
+191,Final the Divide,11,2017-04-30,2018-12-25,The last stand — not everyone will make it out alive.
+192,Birth of Eternity,4,1996-03-31,1997-06-22,Heroes from across time must unite against an impossible threat.
+193,Secret Shadows,4,1965-04-22,1966-10-08,Decades of secrets come to a head in this explosive arc.
+194,War of the Remnant,15,1950-03-04,1951-05-05,"The first domino falls, setting off a chain of catastrophic events."
+195,Escape from the Phoenix,4,2017-06-08,2018-09-05,"The definitive origin story, told for the first time in full."
+196,Wrath of the Abyss,12,1963-02-05,1963-04-09,The villain wins — and the heroes must live with the consequences.
+197,Birth of the Titan,4,1959-03-08,1960-04-12,"The first domino falls, setting off a chain of catastrophic events."
+198,Hunt for Vengeance,9,1943-06-08,1944-08-18,The villain wins — and the heroes must live with the consequences.
+199,Infinite Judgment,20,1995-07-28,1997-06-11,A universe-spanning event that reshapes the status quo forever.
+200,Secret the Storm,19,1959-11-08,1960-04-14,The villain wins — and the heroes must live with the consequences.

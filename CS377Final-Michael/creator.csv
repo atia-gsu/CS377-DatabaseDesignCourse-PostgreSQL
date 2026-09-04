@@ -1,0 +1,501 @@
+creator_id,first_name,last_name,birth_year,nationality,bio
+1,Christine,Harris,1923,French,Pioneering colorist who revolutionized digital coloring techniques.
+2,Donald,Young,1933,German,Renowned penciler celebrated for dynamic action sequences.
+3,Helen,Murphy,1924,American,Renowned penciler celebrated for dynamic action sequences.
+4,Ashley,Nguyen,1984,Brazilian,Award-winning writer known for complex character arcs.
+5,Emma,King,1989,Spanish,Pioneering colorist who revolutionized digital coloring techniques.
+6,Kathleen,James,1955,American,Veteran inker whose work defined an entire era of comics.
+7,Janet,Murphy,1963,French,Veteran inker whose work defined an entire era of comics.
+8,Ashley,Evans,1933,British,Legendary artist whose style influenced an entire generation.
+9,Richard,Diaz,1964,Brazilian,Prolific creator with credits spanning five decades of comics.
+10,Linda,Ortiz,1988,British,Legendary artist whose style influenced an entire generation.
+11,William,Richardson,1957,Brazilian,Independent creator known for groundbreaking creator-owned titles.
+12,Nicole,Young,1928,American,Pioneering colorist who revolutionized digital coloring techniques.
+13,Roger,Campbell,1930,Australian,Renowned penciler celebrated for dynamic action sequences.
+14,Matthew,Baker,1978,Japanese,Veteran inker whose work defined an entire era of comics.
+15,Stephanie,Diaz,1946,French,Renowned penciler celebrated for dynamic action sequences.
+16,Samantha,Price,1941,German,Pioneering colorist who revolutionized digital coloring techniques.
+17,Christopher,Morgan,1968,French,Artist famed for intricate page layouts and expressive faces.
+18,Donald,Long,1961,American,Pioneering colorist who revolutionized digital coloring techniques.
+19,John,Roberts,1971,French,Renowned penciler celebrated for dynamic action sequences.
+20,Ashley,Brooks,1960,Australian,Writer known for socially conscious storytelling and diverse casts.
+21,Gary,Alvarez,1978,Canadian,Prolific creator with credits spanning five decades of comics.
+22,Nancy,Flores,1991,German,Prolific creator with credits spanning five decades of comics.
+23,Diane,Wood,1974,Brazilian,Legendary artist whose style influenced an entire generation.
+24,Jason,Torres,1937,German,Writer known for socially conscious storytelling and diverse casts.
+25,Susan,Miller,1934,Canadian,Veteran inker whose work defined an entire era of comics.
+26,Carolyn,Murphy,1928,Spanish,Legendary artist whose style influenced an entire generation.
+27,Jerry,Morgan,1987,French,Artist famed for intricate page layouts and expressive faces.
+28,Maria,Long,1934,German,Prolific creator with credits spanning five decades of comics.
+29,Roger,Alvarez,1963,British,Prolific creator with credits spanning five decades of comics.
+30,Cynthia,Lee,1978,American,Prolific creator with credits spanning five decades of comics.
+31,Eric,Hall,1984,British,Prolific creator with credits spanning five decades of comics.
+32,Christine,Kelly,1945,Canadian,Independent creator known for groundbreaking creator-owned titles.
+33,Julie,Lee,1989,German,Award-winning writer known for complex character arcs.
+34,Jerry,Gomez,1982,American,Renowned penciler celebrated for dynamic action sequences.
+35,Jason,Carter,1950,American,Pioneering colorist who revolutionized digital coloring techniques.
+36,Gregory,Anderson,1930,Italian,Renowned penciler celebrated for dynamic action sequences.
+37,Julie,Cox,1936,Canadian,Writer known for socially conscious storytelling and diverse casts.
+38,Raymond,Walker,1953,German,Two-time Eisner Award winner for outstanding comics writing.
+39,Jose,Scott,1989,Australian,Prolific creator with credits spanning five decades of comics.
+40,Sharon,Patel,1967,Italian,Artist famed for intricate page layouts and expressive faces.
+41,Kathleen,Martin,1951,Australian,Renowned penciler celebrated for dynamic action sequences.
+42,Melissa,Williams,1995,German,Pioneering colorist who revolutionized digital coloring techniques.
+43,Helen,Torres,1920,British,Award-winning writer known for complex character arcs.
+44,Dorothy,Wilson,1924,Japanese,Renowned penciler celebrated for dynamic action sequences.
+45,Anna,Hill,1955,Italian,Pioneering colorist who revolutionized digital coloring techniques.
+46,Pamela,Thompson,1993,Brazilian,Writer known for socially conscious storytelling and diverse casts.
+47,Kimberly,Cooper,1972,Australian,Renowned penciler celebrated for dynamic action sequences.
+48,Richard,Sanders,1975,Japanese,Legendary artist whose style influenced an entire generation.
+49,Timothy,Morgan,1926,British,Award-winning writer known for complex character arcs.
+50,Sharon,Evans,1933,Australian,Pioneering colorist who revolutionized digital coloring techniques.
+51,Paul,Cox,1977,Canadian,Legendary artist whose style influenced an entire generation.
+52,Dorothy,Baker,1979,Australian,Renowned penciler celebrated for dynamic action sequences.
+53,Larry,Richardson,1932,American,Artist famed for intricate page layouts and expressive faces.
+54,Maria,Thomas,1950,Canadian,Legendary artist whose style influenced an entire generation.
+55,Scott,Peterson,1947,Spanish,Award-winning writer known for complex character arcs.
+56,Betty,Edwards,1920,Spanish,Prolific creator with credits spanning five decades of comics.
+57,Jeffrey,Rivera,1974,German,Writer known for socially conscious storytelling and diverse casts.
+58,Lisa,Young,1957,Australian,Award-winning writer known for complex character arcs.
+59,Joshua,Ward,1927,Japanese,Award-winning writer known for complex character arcs.
+60,Robert,Wood,1981,German,Artist famed for intricate page layouts and expressive faces.
+61,Christopher,Davis,1985,British,Veteran inker whose work defined an entire era of comics.
+62,Michael,Bennett,1928,Australian,Legendary artist whose style influenced an entire generation.
+63,Karen,Brooks,1951,Brazilian,Two-time Eisner Award winner for outstanding comics writing.
+64,Linda,Ruiz,1930,Spanish,Two-time Eisner Award winner for outstanding comics writing.
+65,Gregory,Ramos,1960,French,Pioneering colorist who revolutionized digital coloring techniques.
+66,Rachel,Roberts,1950,French,Legendary artist whose style influenced an entire generation.
+67,Thomas,Patel,1958,Italian,Independent creator known for groundbreaking creator-owned titles.
+68,Ryan,Taylor,1921,Italian,Two-time Eisner Award winner for outstanding comics writing.
+69,Gregory,Jackson,1929,German,Pioneering colorist who revolutionized digital coloring techniques.
+70,Eric,Adams,1936,Japanese,Renowned penciler celebrated for dynamic action sequences.
+71,Kimberly,Cruz,1956,Canadian,Writer known for socially conscious storytelling and diverse casts.
+72,Pamela,Mitchell,1987,American,Artist famed for intricate page layouts and expressive faces.
+73,Brian,Sanders,1933,Canadian,Prolific creator with credits spanning five decades of comics.
+74,Joseph,White,1990,Canadian,Prolific creator with credits spanning five decades of comics.
+75,Edward,Gray,1946,Japanese,Pioneering colorist who revolutionized digital coloring techniques.
+76,Carolyn,Price,1953,German,Writer known for socially conscious storytelling and diverse casts.
+77,Kenneth,Miller,1931,Spanish,Prolific creator with credits spanning five decades of comics.
+78,Linda,Smith,1962,Canadian,Prolific creator with credits spanning five decades of comics.
+79,Christopher,Rogers,1990,Spanish,Artist famed for intricate page layouts and expressive faces.
+80,Maria,Harris,1929,Canadian,Artist famed for intricate page layouts and expressive faces.
+81,John,Cruz,1994,German,Veteran inker whose work defined an entire era of comics.
+82,Cynthia,Thompson,1925,French,Independent creator known for groundbreaking creator-owned titles.
+83,Linda,Diaz,1946,Australian,Renowned penciler celebrated for dynamic action sequences.
+84,Deborah,Watson,1972,Brazilian,Veteran inker whose work defined an entire era of comics.
+85,George,Lee,1942,Spanish,Award-winning writer known for complex character arcs.
+86,Daniel,Phillips,1972,Australian,Prolific creator with credits spanning five decades of comics.
+87,Christopher,Foster,1933,Spanish,Award-winning writer known for complex character arcs.
+88,Frank,Torres,1945,Italian,Independent creator known for groundbreaking creator-owned titles.
+89,Carol,Nguyen,1948,American,Pioneering colorist who revolutionized digital coloring techniques.
+90,Sharon,Phillips,1955,British,Prolific creator with credits spanning five decades of comics.
+91,Kevin,Alvarez,1985,Spanish,Artist famed for intricate page layouts and expressive faces.
+92,Anthony,Brown,1934,French,Veteran inker whose work defined an entire era of comics.
+93,Joshua,Adams,1924,British,Two-time Eisner Award winner for outstanding comics writing.
+94,Cynthia,Turner,1960,Spanish,Two-time Eisner Award winner for outstanding comics writing.
+95,Anna,Harris,1969,Brazilian,Pioneering colorist who revolutionized digital coloring techniques.
+96,Kenneth,Garcia,1975,American,Artist famed for intricate page layouts and expressive faces.
+97,Andrew,Long,1945,Japanese,Legendary artist whose style influenced an entire generation.
+98,Michael,Patel,1962,Brazilian,Independent creator known for groundbreaking creator-owned titles.
+99,Peter,Martin,1958,German,Prolific creator with credits spanning five decades of comics.
+100,Rachel,Morris,1961,Spanish,Prolific creator with credits spanning five decades of comics.
+101,Raymond,Thompson,1944,Spanish,Legendary artist whose style influenced an entire generation.
+102,Harold,Hall,1992,French,Legendary artist whose style influenced an entire generation.
+103,Raymond,Smith,1958,French,Pioneering colorist who revolutionized digital coloring techniques.
+104,Cynthia,Wood,1961,Italian,Writer known for socially conscious storytelling and diverse casts.
+105,Larry,Myers,1947,German,Writer known for socially conscious storytelling and diverse casts.
+106,Arthur,Walker,1930,French,Artist famed for intricate page layouts and expressive faces.
+107,Peter,Price,1962,British,Pioneering colorist who revolutionized digital coloring techniques.
+108,Harold,Carter,1948,Australian,Veteran inker whose work defined an entire era of comics.
+109,Sarah,Garcia,1951,Italian,Two-time Eisner Award winner for outstanding comics writing.
+110,Roger,Taylor,1978,Spanish,Two-time Eisner Award winner for outstanding comics writing.
+111,Paul,Foster,1969,Italian,Legendary artist whose style influenced an entire generation.
+112,Kimberly,Robinson,1920,British,Legendary artist whose style influenced an entire generation.
+113,Donald,Hall,1986,Italian,Award-winning writer known for complex character arcs.
+114,Emma,Flores,1935,Italian,Veteran inker whose work defined an entire era of comics.
+115,Amy,Patel,1987,German,Two-time Eisner Award winner for outstanding comics writing.
+116,Ronald,Rogers,1984,Spanish,Artist famed for intricate page layouts and expressive faces.
+117,Kathleen,Lee,1980,Italian,Prolific creator with credits spanning five decades of comics.
+118,Ryan,Flores,1955,German,Writer known for socially conscious storytelling and diverse casts.
+119,Walter,Hill,1955,Italian,Renowned penciler celebrated for dynamic action sequences.
+120,Maria,Rivera,1950,French,Independent creator known for groundbreaking creator-owned titles.
+121,Ronald,Ward,1930,Canadian,Veteran inker whose work defined an entire era of comics.
+122,Dorothy,Collins,1939,Australian,Renowned penciler celebrated for dynamic action sequences.
+123,Laura,Morris,1962,German,Writer known for socially conscious storytelling and diverse casts.
+124,Laura,Davis,1946,Spanish,Legendary artist whose style influenced an entire generation.
+125,Roger,Wood,1922,Brazilian,Legendary artist whose style influenced an entire generation.
+126,Angela,Smith,1965,French,Legendary artist whose style influenced an entire generation.
+127,Laura,Cox,1989,Brazilian,Pioneering colorist who revolutionized digital coloring techniques.
+128,Scott,Torres,1954,Spanish,Writer known for socially conscious storytelling and diverse casts.
+129,Sarah,Collins,1963,Spanish,Veteran inker whose work defined an entire era of comics.
+130,Amy,Thompson,1988,American,Legendary artist whose style influenced an entire generation.
+131,Helen,Brooks,1923,British,Legendary artist whose style influenced an entire generation.
+132,Nancy,Morgan,1943,American,Prolific creator with credits spanning five decades of comics.
+133,Matthew,Gomez,1947,Italian,Independent creator known for groundbreaking creator-owned titles.
+134,Melissa,Edwards,1955,Spanish,Prolific creator with credits spanning five decades of comics.
+135,William,Cooper,1922,German,Award-winning writer known for complex character arcs.
+136,Kevin,Torres,1928,American,Award-winning writer known for complex character arcs.
+137,Kimberly,King,1922,Brazilian,Veteran inker whose work defined an entire era of comics.
+138,George,Thompson,1980,British,Two-time Eisner Award winner for outstanding comics writing.
+139,Ashley,Morgan,1952,Japanese,Veteran inker whose work defined an entire era of comics.
+140,Samantha,Gray,1934,Canadian,Prolific creator with credits spanning five decades of comics.
+141,Jessica,Wood,1923,French,Two-time Eisner Award winner for outstanding comics writing.
+142,Harold,Edwards,1970,Australian,Renowned penciler celebrated for dynamic action sequences.
+143,Helen,Ross,1951,British,Prolific creator with credits spanning five decades of comics.
+144,Carolyn,Bennett,1935,Brazilian,Award-winning writer known for complex character arcs.
+145,Kevin,Cox,1974,Japanese,Renowned penciler celebrated for dynamic action sequences.
+146,Eric,Alvarez,1963,American,Legendary artist whose style influenced an entire generation.
+147,Scott,White,1975,Japanese,Writer known for socially conscious storytelling and diverse casts.
+148,Henry,Lewis,1975,Canadian,Artist famed for intricate page layouts and expressive faces.
+149,Debra,Nelson,1988,Italian,Writer known for socially conscious storytelling and diverse casts.
+150,Cynthia,James,1954,Japanese,Pioneering colorist who revolutionized digital coloring techniques.
+151,Susan,Baker,1977,Australian,Writer known for socially conscious storytelling and diverse casts.
+152,Gregory,Mendoza,1968,Japanese,Award-winning writer known for complex character arcs.
+153,Shirley,Gomez,1943,Italian,Pioneering colorist who revolutionized digital coloring techniques.
+154,Deborah,Adams,1963,French,Two-time Eisner Award winner for outstanding comics writing.
+155,Janet,Baker,1991,American,Artist famed for intricate page layouts and expressive faces.
+156,Paul,Anderson,1950,Spanish,Writer known for socially conscious storytelling and diverse casts.
+157,Emma,Hill,1980,Italian,Writer known for socially conscious storytelling and diverse casts.
+158,David,Thomas,1957,Australian,Legendary artist whose style influenced an entire generation.
+159,Douglas,Flores,1959,Brazilian,Independent creator known for groundbreaking creator-owned titles.
+160,Frank,Richardson,1987,Japanese,Legendary artist whose style influenced an entire generation.
+161,Diane,Richardson,1962,Japanese,Writer known for socially conscious storytelling and diverse casts.
+162,Steven,Carter,1952,Australian,Renowned penciler celebrated for dynamic action sequences.
+163,Carl,Young,1960,British,Artist famed for intricate page layouts and expressive faces.
+164,Julie,Ross,1943,Australian,Pioneering colorist who revolutionized digital coloring techniques.
+165,Arthur,Peterson,1955,Brazilian,Artist famed for intricate page layouts and expressive faces.
+166,Jerry,Rivera,1932,Australian,Prolific creator with credits spanning five decades of comics.
+167,Dorothy,Parker,1942,French,Award-winning writer known for complex character arcs.
+168,Henry,Cox,1936,French,Award-winning writer known for complex character arcs.
+169,Robert,Richardson,1957,Canadian,Writer known for socially conscious storytelling and diverse casts.
+170,Jessica,Johnson,1993,French,Writer known for socially conscious storytelling and diverse casts.
+171,Angela,Rogers,1963,Canadian,Award-winning writer known for complex character arcs.
+172,Kenneth,Peterson,1934,British,Legendary artist whose style influenced an entire generation.
+173,Scott,Taylor,1993,American,Veteran inker whose work defined an entire era of comics.
+174,Lisa,Brooks,1958,British,Pioneering colorist who revolutionized digital coloring techniques.
+175,Karen,Watson,1973,Brazilian,Two-time Eisner Award winner for outstanding comics writing.
+176,Katherine,Torres,1986,Spanish,Writer known for socially conscious storytelling and diverse casts.
+177,Larry,Mitchell,1995,Spanish,Prolific creator with credits spanning five decades of comics.
+178,Gregory,Ruiz,1927,Brazilian,Renowned penciler celebrated for dynamic action sequences.
+179,Julie,Wright,1947,French,Renowned penciler celebrated for dynamic action sequences.
+180,Christopher,Hill,1942,German,Renowned penciler celebrated for dynamic action sequences.
+181,Christopher,Smith,1972,Italian,Two-time Eisner Award winner for outstanding comics writing.
+182,Frank,Campbell,1924,Australian,Prolific creator with credits spanning five decades of comics.
+183,Henry,Rivera,1978,British,Pioneering colorist who revolutionized digital coloring techniques.
+184,Emily,Hughes,1995,Australian,Legendary artist whose style influenced an entire generation.
+185,Joseph,Ward,1948,Canadian,Prolific creator with credits spanning five decades of comics.
+186,Charles,Taylor,1927,Canadian,Prolific creator with credits spanning five decades of comics.
+187,Jerry,Brooks,1956,Italian,Renowned penciler celebrated for dynamic action sequences.
+188,Amy,Ross,1958,Spanish,Prolific creator with credits spanning five decades of comics.
+189,Eric,Ward,1983,Italian,Renowned penciler celebrated for dynamic action sequences.
+190,Jerry,Garcia,1975,Japanese,Two-time Eisner Award winner for outstanding comics writing.
+191,Kenneth,Brown,1931,Australian,Two-time Eisner Award winner for outstanding comics writing.
+192,Helen,Williams,1954,Brazilian,Award-winning writer known for complex character arcs.
+193,Julie,Hall,1980,German,Writer known for socially conscious storytelling and diverse casts.
+194,Donna,Allen,1994,Spanish,Writer known for socially conscious storytelling and diverse casts.
+195,Susan,Cooper,1964,Spanish,Independent creator known for groundbreaking creator-owned titles.
+196,Amanda,Patel,1933,Canadian,Independent creator known for groundbreaking creator-owned titles.
+197,Timothy,Ross,1983,French,Legendary artist whose style influenced an entire generation.
+198,Julie,Richardson,1924,Italian,Renowned penciler celebrated for dynamic action sequences.
+199,Ronald,Green,1961,British,Legendary artist whose style influenced an entire generation.
+200,Anna,Smith,1989,Italian,Legendary artist whose style influenced an entire generation.
+201,Robert,Young,1986,Japanese,Two-time Eisner Award winner for outstanding comics writing.
+202,Ryan,Reed,1976,American,Pioneering colorist who revolutionized digital coloring techniques.
+203,Steven,Richardson,1936,French,Writer known for socially conscious storytelling and diverse casts.
+204,Janet,Bailey,1935,American,Two-time Eisner Award winner for outstanding comics writing.
+205,George,Lee,1959,German,Award-winning writer known for complex character arcs.
+206,Raymond,Morris,1931,Australian,Renowned penciler celebrated for dynamic action sequences.
+207,Amy,Martin,1939,Italian,Prolific creator with credits spanning five decades of comics.
+208,Anna,Nelson,1973,Italian,Writer known for socially conscious storytelling and diverse casts.
+209,Kimberly,Ortiz,1990,Canadian,Legendary artist whose style influenced an entire generation.
+210,Paul,Bennett,1985,Canadian,Renowned penciler celebrated for dynamic action sequences.
+211,Donna,Morales,1963,German,Prolific creator with credits spanning five decades of comics.
+212,James,Rivera,1958,Brazilian,Two-time Eisner Award winner for outstanding comics writing.
+213,Peter,Bailey,1939,Italian,Artist famed for intricate page layouts and expressive faces.
+214,Angela,Turner,1962,German,Artist famed for intricate page layouts and expressive faces.
+215,Matthew,Ortiz,1961,Australian,Pioneering colorist who revolutionized digital coloring techniques.
+216,Nicole,Collins,1949,Spanish,Award-winning writer known for complex character arcs.
+217,Ronald,Cooper,1968,Spanish,Veteran inker whose work defined an entire era of comics.
+218,Shirley,Jones,1936,German,Two-time Eisner Award winner for outstanding comics writing.
+219,Anthony,Jackson,1976,British,Artist famed for intricate page layouts and expressive faces.
+220,Jeffrey,Johnson,1938,Spanish,Veteran inker whose work defined an entire era of comics.
+221,Barbara,Cooper,1953,Japanese,Two-time Eisner Award winner for outstanding comics writing.
+222,Douglas,Reyes,1930,Japanese,Artist famed for intricate page layouts and expressive faces.
+223,Matthew,Roberts,1982,German,Award-winning writer known for complex character arcs.
+224,Katherine,Wilson,1950,French,Pioneering colorist who revolutionized digital coloring techniques.
+225,Diane,Thomas,1975,British,Renowned penciler celebrated for dynamic action sequences.
+226,Larry,Walker,1958,American,Award-winning writer known for complex character arcs.
+227,Amanda,Davis,1957,Japanese,Independent creator known for groundbreaking creator-owned titles.
+228,Cynthia,Robinson,1951,German,Legendary artist whose style influenced an entire generation.
+229,Gregory,Long,1943,Canadian,Veteran inker whose work defined an entire era of comics.
+230,William,Mendoza,1968,Brazilian,Pioneering colorist who revolutionized digital coloring techniques.
+231,Shirley,Wood,1938,Australian,Writer known for socially conscious storytelling and diverse casts.
+232,Christine,Green,1978,French,Award-winning writer known for complex character arcs.
+233,Amy,Rivera,1989,Canadian,Renowned penciler celebrated for dynamic action sequences.
+234,Larry,Turner,1995,French,Legendary artist whose style influenced an entire generation.
+235,Douglas,Green,1978,French,Pioneering colorist who revolutionized digital coloring techniques.
+236,Rebecca,Peterson,1933,Australian,Legendary artist whose style influenced an entire generation.
+237,Nicole,Diaz,1993,French,Prolific creator with credits spanning five decades of comics.
+238,David,Sanders,1970,French,Award-winning writer known for complex character arcs.
+239,Gregory,Long,1926,Brazilian,Writer known for socially conscious storytelling and diverse casts.
+240,Edward,Nguyen,1965,Australian,Pioneering colorist who revolutionized digital coloring techniques.
+241,Katherine,Green,1937,British,Award-winning writer known for complex character arcs.
+242,Carol,Rogers,1924,Brazilian,Independent creator known for groundbreaking creator-owned titles.
+243,Heather,Thompson,1931,French,Independent creator known for groundbreaking creator-owned titles.
+244,Diane,Morales,1942,Australian,Veteran inker whose work defined an entire era of comics.
+245,Pamela,Parker,1987,German,Prolific creator with credits spanning five decades of comics.
+246,Betty,Green,1981,French,Independent creator known for groundbreaking creator-owned titles.
+247,Joseph,Morgan,1929,Canadian,Pioneering colorist who revolutionized digital coloring techniques.
+248,Harold,Myers,1970,German,Independent creator known for groundbreaking creator-owned titles.
+249,Susan,Reyes,1921,French,Artist famed for intricate page layouts and expressive faces.
+250,Karen,Ortiz,1967,French,Two-time Eisner Award winner for outstanding comics writing.
+251,Matthew,Price,1967,British,Pioneering colorist who revolutionized digital coloring techniques.
+252,Frank,Brown,1991,Japanese,Two-time Eisner Award winner for outstanding comics writing.
+253,Donald,Alvarez,1928,Italian,Prolific creator with credits spanning five decades of comics.
+254,Debra,Morris,1934,Canadian,Award-winning writer known for complex character arcs.
+255,John,Mitchell,1983,British,Renowned penciler celebrated for dynamic action sequences.
+256,George,Cox,1937,Spanish,Writer known for socially conscious storytelling and diverse casts.
+257,Stephanie,Patel,1989,Spanish,Two-time Eisner Award winner for outstanding comics writing.
+258,Diane,Lewis,1973,British,Writer known for socially conscious storytelling and diverse casts.
+259,Dennis,Morris,1955,American,Independent creator known for groundbreaking creator-owned titles.
+260,Ashley,Rogers,1976,Australian,Independent creator known for groundbreaking creator-owned titles.
+261,Richard,Long,1967,German,Independent creator known for groundbreaking creator-owned titles.
+262,Patricia,Reyes,1955,Australian,Renowned penciler celebrated for dynamic action sequences.
+263,Jeffrey,Thomas,1947,Brazilian,Award-winning writer known for complex character arcs.
+264,Robert,Phillips,1951,Canadian,Two-time Eisner Award winner for outstanding comics writing.
+265,Mark,Wilson,1990,Australian,Two-time Eisner Award winner for outstanding comics writing.
+266,Ashley,Nguyen,1962,Canadian,Two-time Eisner Award winner for outstanding comics writing.
+267,James,Baker,1938,Canadian,Artist famed for intricate page layouts and expressive faces.
+268,Kenneth,Hall,1934,American,Veteran inker whose work defined an entire era of comics.
+269,Maria,Diaz,1950,Brazilian,Independent creator known for groundbreaking creator-owned titles.
+270,David,Hall,1953,American,Veteran inker whose work defined an entire era of comics.
+271,Arthur,Morales,1987,British,Renowned penciler celebrated for dynamic action sequences.
+272,Frank,Gutierrez,1966,German,Two-time Eisner Award winner for outstanding comics writing.
+273,Jessica,Gutierrez,1984,Australian,Two-time Eisner Award winner for outstanding comics writing.
+274,Linda,Sanders,1986,French,Writer known for socially conscious storytelling and diverse casts.
+275,Patrick,Brown,1927,Italian,Legendary artist whose style influenced an entire generation.
+276,Jose,Long,1933,Italian,Writer known for socially conscious storytelling and diverse casts.
+277,Barbara,Anderson,1961,Brazilian,Veteran inker whose work defined an entire era of comics.
+278,Michael,Thompson,1955,Brazilian,Two-time Eisner Award winner for outstanding comics writing.
+279,Raymond,Gomez,1968,Brazilian,Artist famed for intricate page layouts and expressive faces.
+280,Michelle,Ortiz,1984,Brazilian,Legendary artist whose style influenced an entire generation.
+281,Richard,Foster,1934,German,Pioneering colorist who revolutionized digital coloring techniques.
+282,Cynthia,Gutierrez,1949,Spanish,Independent creator known for groundbreaking creator-owned titles.
+283,Jeffrey,Stewart,1973,British,Independent creator known for groundbreaking creator-owned titles.
+284,Jose,Roberts,1952,Japanese,Veteran inker whose work defined an entire era of comics.
+285,Carolyn,Cooper,1928,British,Renowned penciler celebrated for dynamic action sequences.
+286,Susan,Cook,1932,Japanese,Veteran inker whose work defined an entire era of comics.
+287,Emma,Davis,1995,German,Artist famed for intricate page layouts and expressive faces.
+288,Anthony,Patel,1935,Spanish,Independent creator known for groundbreaking creator-owned titles.
+289,Rachel,Murphy,1926,French,Two-time Eisner Award winner for outstanding comics writing.
+290,Carol,Diaz,1933,Brazilian,Artist famed for intricate page layouts and expressive faces.
+291,Ashley,Lewis,1981,Australian,Renowned penciler celebrated for dynamic action sequences.
+292,Kevin,Watson,1967,British,Prolific creator with credits spanning five decades of comics.
+293,Nicole,Torres,1974,German,Two-time Eisner Award winner for outstanding comics writing.
+294,Dennis,Myers,1991,American,Two-time Eisner Award winner for outstanding comics writing.
+295,Peter,Ross,1954,American,Veteran inker whose work defined an entire era of comics.
+296,Steven,Foster,1959,Japanese,Independent creator known for groundbreaking creator-owned titles.
+297,James,Allen,1938,Brazilian,Legendary artist whose style influenced an entire generation.
+298,Michael,Robinson,1923,British,Artist famed for intricate page layouts and expressive faces.
+299,Ashley,Edwards,1973,Italian,Independent creator known for groundbreaking creator-owned titles.
+300,Christopher,Cruz,1959,Japanese,Two-time Eisner Award winner for outstanding comics writing.
+301,Jerry,Anderson,1926,Canadian,Veteran inker whose work defined an entire era of comics.
+302,Ryan,Ruiz,1926,British,Prolific creator with credits spanning five decades of comics.
+303,Larry,Sanders,1974,Italian,Two-time Eisner Award winner for outstanding comics writing.
+304,Larry,Morales,1954,Australian,Artist famed for intricate page layouts and expressive faces.
+305,Joseph,Turner,1975,British,Prolific creator with credits spanning five decades of comics.
+306,Harold,Myers,1995,Italian,Artist famed for intricate page layouts and expressive faces.
+307,Rachel,Carter,1925,Australian,Legendary artist whose style influenced an entire generation.
+308,Jerry,Davis,1920,Australian,Prolific creator with credits spanning five decades of comics.
+309,Ashley,Young,1952,French,Independent creator known for groundbreaking creator-owned titles.
+310,Karen,Smith,1983,Spanish,Veteran inker whose work defined an entire era of comics.
+311,Thomas,Edwards,1988,Australian,Artist famed for intricate page layouts and expressive faces.
+312,Emma,Patel,1965,British,Legendary artist whose style influenced an entire generation.
+313,Arthur,Garcia,1975,American,Writer known for socially conscious storytelling and diverse casts.
+314,Barbara,Roberts,1993,Spanish,Two-time Eisner Award winner for outstanding comics writing.
+315,Sharon,Price,1973,French,Renowned penciler celebrated for dynamic action sequences.
+316,Sharon,Williams,1961,Canadian,Two-time Eisner Award winner for outstanding comics writing.
+317,Jeffrey,Ross,1966,British,Legendary artist whose style influenced an entire generation.
+318,Jessica,Flores,1975,Brazilian,Legendary artist whose style influenced an entire generation.
+319,Brenda,Anderson,1970,French,Independent creator known for groundbreaking creator-owned titles.
+320,Donald,Phillips,1941,British,Artist famed for intricate page layouts and expressive faces.
+321,Christine,Harris,1987,German,Pioneering colorist who revolutionized digital coloring techniques.
+322,Joyce,Turner,1964,Canadian,Pioneering colorist who revolutionized digital coloring techniques.
+323,Jessica,Robinson,1952,Australian,Veteran inker whose work defined an entire era of comics.
+324,Samantha,Lewis,1929,Canadian,Writer known for socially conscious storytelling and diverse casts.
+325,Amy,Brooks,1994,Italian,Two-time Eisner Award winner for outstanding comics writing.
+326,Patrick,Price,1961,Japanese,Veteran inker whose work defined an entire era of comics.
+327,Larry,Wilson,1980,Italian,Prolific creator with credits spanning five decades of comics.
+328,Donna,James,1927,Japanese,Artist famed for intricate page layouts and expressive faces.
+329,Barbara,Carter,1979,Italian,Award-winning writer known for complex character arcs.
+330,Patricia,Cruz,1956,British,Renowned penciler celebrated for dynamic action sequences.
+331,Dennis,Bennett,1984,Spanish,Writer known for socially conscious storytelling and diverse casts.
+332,Joshua,Richardson,1925,Italian,Two-time Eisner Award winner for outstanding comics writing.
+333,Debra,Young,1961,Brazilian,Writer known for socially conscious storytelling and diverse casts.
+334,Eric,Lewis,1927,Italian,Renowned penciler celebrated for dynamic action sequences.
+335,Melissa,Anderson,1984,Canadian,Award-winning writer known for complex character arcs.
+336,Kimberly,Rogers,1976,German,Artist famed for intricate page layouts and expressive faces.
+337,Dennis,Lee,1966,Japanese,Prolific creator with credits spanning five decades of comics.
+338,Rebecca,Morris,1963,Brazilian,Award-winning writer known for complex character arcs.
+339,Walter,Alvarez,1962,British,Independent creator known for groundbreaking creator-owned titles.
+340,Richard,Watson,1969,French,Prolific creator with credits spanning five decades of comics.
+341,Carl,Sanders,1939,Japanese,Renowned penciler celebrated for dynamic action sequences.
+342,Joshua,Sanders,1938,Japanese,Prolific creator with credits spanning five decades of comics.
+343,Debra,Foster,1970,Canadian,Two-time Eisner Award winner for outstanding comics writing.
+344,Henry,Anderson,1959,German,Legendary artist whose style influenced an entire generation.
+345,Patrick,Phillips,1936,German,Renowned penciler celebrated for dynamic action sequences.
+346,Patrick,Patel,1974,German,Independent creator known for groundbreaking creator-owned titles.
+347,David,Parker,1959,Canadian,Pioneering colorist who revolutionized digital coloring techniques.
+348,Melissa,Bailey,1944,Australian,Veteran inker whose work defined an entire era of comics.
+349,Lisa,Taylor,1957,British,Artist famed for intricate page layouts and expressive faces.
+350,Roger,Ward,1987,American,Independent creator known for groundbreaking creator-owned titles.
+351,Roger,Ruiz,1936,Brazilian,Legendary artist whose style influenced an entire generation.
+352,Lisa,Lee,1943,Brazilian,Veteran inker whose work defined an entire era of comics.
+353,Carl,Rogers,1925,Spanish,Independent creator known for groundbreaking creator-owned titles.
+354,Harold,Hill,1976,Brazilian,Prolific creator with credits spanning five decades of comics.
+355,Ryan,Gutierrez,1949,German,Pioneering colorist who revolutionized digital coloring techniques.
+356,Carol,Cooper,1944,Japanese,Two-time Eisner Award winner for outstanding comics writing.
+357,Larry,Morgan,1956,Spanish,Artist famed for intricate page layouts and expressive faces.
+358,Brenda,Morales,1940,Australian,Two-time Eisner Award winner for outstanding comics writing.
+359,Nancy,Green,1926,Italian,Independent creator known for groundbreaking creator-owned titles.
+360,Raymond,White,1986,British,Prolific creator with credits spanning five decades of comics.
+361,William,Lee,1954,Italian,Artist famed for intricate page layouts and expressive faces.
+362,Charles,Cook,1931,Australian,Writer known for socially conscious storytelling and diverse casts.
+363,Kevin,Brown,1973,American,Legendary artist whose style influenced an entire generation.
+364,Eric,Cruz,1950,Spanish,Renowned penciler celebrated for dynamic action sequences.
+365,Stephanie,Torres,1923,Japanese,Renowned penciler celebrated for dynamic action sequences.
+366,Maria,Castillo,1962,Canadian,Veteran inker whose work defined an entire era of comics.
+367,John,Rivera,1980,Canadian,Writer known for socially conscious storytelling and diverse casts.
+368,Kathleen,Mendoza,1920,British,Award-winning writer known for complex character arcs.
+369,Kenneth,Scott,1939,German,Two-time Eisner Award winner for outstanding comics writing.
+370,Brenda,Murphy,1934,French,Pioneering colorist who revolutionized digital coloring techniques.
+371,Brian,Martin,1926,Australian,Legendary artist whose style influenced an entire generation.
+372,Christine,Ruiz,1978,British,Renowned penciler celebrated for dynamic action sequences.
+373,Shirley,Bennett,1988,American,Artist famed for intricate page layouts and expressive faces.
+374,Nicole,Hill,1938,French,Legendary artist whose style influenced an entire generation.
+375,James,Mendoza,1965,Australian,Two-time Eisner Award winner for outstanding comics writing.
+376,Laura,Allen,1930,German,Independent creator known for groundbreaking creator-owned titles.
+377,Michael,Kim,1989,German,Artist famed for intricate page layouts and expressive faces.
+378,Raymond,Williams,1969,Italian,Award-winning writer known for complex character arcs.
+379,Christine,Collins,1967,French,Award-winning writer known for complex character arcs.
+380,Deborah,Wilson,1964,Australian,Renowned penciler celebrated for dynamic action sequences.
+381,Roger,Wood,1962,Canadian,Award-winning writer known for complex character arcs.
+382,Deborah,Ward,1963,Canadian,Writer known for socially conscious storytelling and diverse casts.
+383,Janet,Peterson,1943,Canadian,Renowned penciler celebrated for dynamic action sequences.
+384,Maria,Ortiz,1924,French,Pioneering colorist who revolutionized digital coloring techniques.
+385,Linda,King,1925,Japanese,Prolific creator with credits spanning five decades of comics.
+386,Anna,Reyes,1989,Italian,Prolific creator with credits spanning five decades of comics.
+387,John,Alvarez,1944,French,Independent creator known for groundbreaking creator-owned titles.
+388,Joyce,Miller,1962,French,Renowned penciler celebrated for dynamic action sequences.
+389,Stephanie,Cook,1971,Italian,Legendary artist whose style influenced an entire generation.
+390,Melissa,Allen,1983,Italian,Independent creator known for groundbreaking creator-owned titles.
+391,Stephen,Nelson,1930,Spanish,Renowned penciler celebrated for dynamic action sequences.
+392,Cynthia,Gray,1943,German,Prolific creator with credits spanning five decades of comics.
+393,Amanda,White,1930,Japanese,Prolific creator with credits spanning five decades of comics.
+394,Carol,Gutierrez,1974,Canadian,Writer known for socially conscious storytelling and diverse casts.
+395,Kevin,Gutierrez,1925,Japanese,Two-time Eisner Award winner for outstanding comics writing.
+396,Cynthia,Baker,1927,British,Legendary artist whose style influenced an entire generation.
+397,Jason,Howard,1940,American,Veteran inker whose work defined an entire era of comics.
+398,Samantha,Myers,1976,American,Veteran inker whose work defined an entire era of comics.
+399,Michael,Hill,1966,Japanese,Legendary artist whose style influenced an entire generation.
+400,Gregory,Jones,1939,Italian,Independent creator known for groundbreaking creator-owned titles.
+401,Stephanie,Rogers,1929,Brazilian,Veteran inker whose work defined an entire era of comics.
+402,Brenda,Parker,1970,Japanese,Prolific creator with credits spanning five decades of comics.
+403,Kimberly,Harris,1923,Canadian,Writer known for socially conscious storytelling and diverse casts.
+404,Stephen,Collins,1991,British,Prolific creator with credits spanning five decades of comics.
+405,Joyce,Adams,1977,Australian,Two-time Eisner Award winner for outstanding comics writing.
+406,Edward,Ross,1982,Australian,Renowned penciler celebrated for dynamic action sequences.
+407,Nancy,Taylor,1977,Canadian,Writer known for socially conscious storytelling and diverse casts.
+408,Susan,Long,1960,Japanese,Renowned penciler celebrated for dynamic action sequences.
+409,Raymond,Ward,1957,French,Veteran inker whose work defined an entire era of comics.
+410,Maria,Foster,1942,Japanese,Artist famed for intricate page layouts and expressive faces.
+411,Donald,Martin,1945,Canadian,Pioneering colorist who revolutionized digital coloring techniques.
+412,Shirley,Brown,1966,German,Two-time Eisner Award winner for outstanding comics writing.
+413,Stephanie,Morgan,1990,Canadian,Two-time Eisner Award winner for outstanding comics writing.
+414,Susan,Wilson,1959,Spanish,Writer known for socially conscious storytelling and diverse casts.
+415,Brenda,Morris,1972,Brazilian,Renowned penciler celebrated for dynamic action sequences.
+416,Thomas,Roberts,1929,Italian,Writer known for socially conscious storytelling and diverse casts.
+417,Carolyn,Ramos,1964,Canadian,Artist famed for intricate page layouts and expressive faces.
+418,Christine,James,1943,Canadian,Legendary artist whose style influenced an entire generation.
+419,Eric,Davis,1935,German,Veteran inker whose work defined an entire era of comics.
+420,Brian,Walker,1940,Japanese,Pioneering colorist who revolutionized digital coloring techniques.
+421,Kevin,Ramos,1956,British,Prolific creator with credits spanning five decades of comics.
+422,Sandra,Price,1990,French,Veteran inker whose work defined an entire era of comics.
+423,Walter,Mitchell,1988,British,Artist famed for intricate page layouts and expressive faces.
+424,Patrick,Walker,1995,Brazilian,Veteran inker whose work defined an entire era of comics.
+425,Betty,Sanders,1963,Brazilian,Award-winning writer known for complex character arcs.
+426,Sarah,Anderson,1925,Brazilian,Prolific creator with credits spanning five decades of comics.
+427,Debra,Wright,1993,Spanish,Two-time Eisner Award winner for outstanding comics writing.
+428,Christine,Brown,1983,German,Prolific creator with credits spanning five decades of comics.
+429,Patrick,Mitchell,1981,Australian,Legendary artist whose style influenced an entire generation.
+430,Brian,Ortiz,1929,American,Veteran inker whose work defined an entire era of comics.
+431,Larry,Morales,1981,Italian,Pioneering colorist who revolutionized digital coloring techniques.
+432,Melissa,Gray,1938,Japanese,Independent creator known for groundbreaking creator-owned titles.
+433,Heather,Turner,1971,Canadian,Independent creator known for groundbreaking creator-owned titles.
+434,Anna,Watson,1933,Japanese,Pioneering colorist who revolutionized digital coloring techniques.
+435,Amy,Martin,1954,Italian,Pioneering colorist who revolutionized digital coloring techniques.
+436,Charles,Jackson,1926,French,Legendary artist whose style influenced an entire generation.
+437,Dennis,Morales,1951,Canadian,Independent creator known for groundbreaking creator-owned titles.
+438,Nicole,Roberts,1944,Canadian,Writer known for socially conscious storytelling and diverse casts.
+439,Anna,Morgan,1983,French,Writer known for socially conscious storytelling and diverse casts.
+440,David,Thomas,1970,German,Writer known for socially conscious storytelling and diverse casts.
+441,George,Scott,1994,Japanese,Award-winning writer known for complex character arcs.
+442,Robert,Rivera,1983,Brazilian,Writer known for socially conscious storytelling and diverse casts.
+443,Edward,Cox,1921,British,Legendary artist whose style influenced an entire generation.
+444,Nancy,Adams,1966,Spanish,Independent creator known for groundbreaking creator-owned titles.
+445,Linda,Stewart,1926,Brazilian,Artist famed for intricate page layouts and expressive faces.
+446,Paul,Parker,1990,French,Renowned penciler celebrated for dynamic action sequences.
+447,Rebecca,Kelly,1977,German,Prolific creator with credits spanning five decades of comics.
+448,Katherine,Long,1935,Canadian,Renowned penciler celebrated for dynamic action sequences.
+449,Gary,Cruz,1963,German,Independent creator known for groundbreaking creator-owned titles.
+450,Ryan,Robinson,1945,Brazilian,Artist famed for intricate page layouts and expressive faces.
+451,Sharon,Kelly,1925,American,Award-winning writer known for complex character arcs.
+452,Nancy,Phillips,1980,German,Writer known for socially conscious storytelling and diverse casts.
+453,Lisa,Gray,1985,Canadian,Independent creator known for groundbreaking creator-owned titles.
+454,Dennis,Roberts,1940,Spanish,Two-time Eisner Award winner for outstanding comics writing.
+455,Arthur,Mitchell,1995,Japanese,Artist famed for intricate page layouts and expressive faces.
+456,Anna,Cox,1982,Brazilian,Prolific creator with credits spanning five decades of comics.
+457,Frank,Williams,1967,Japanese,Renowned penciler celebrated for dynamic action sequences.
+458,Laura,Wood,1959,American,Two-time Eisner Award winner for outstanding comics writing.
+459,Frank,Adams,1994,Brazilian,Pioneering colorist who revolutionized digital coloring techniques.
+460,Carl,Miller,1994,Italian,Veteran inker whose work defined an entire era of comics.
+461,Brenda,Hughes,1968,Canadian,Pioneering colorist who revolutionized digital coloring techniques.
+462,John,Chavez,1934,Australian,Award-winning writer known for complex character arcs.
+463,Larry,Roberts,1973,Canadian,Legendary artist whose style influenced an entire generation.
+464,Douglas,Wright,1972,German,Two-time Eisner Award winner for outstanding comics writing.
+465,Frank,Davis,1937,German,Pioneering colorist who revolutionized digital coloring techniques.
+466,Emma,Gomez,1981,German,Legendary artist whose style influenced an entire generation.
+467,Ronald,Hall,1978,German,Independent creator known for groundbreaking creator-owned titles.
+468,Pamela,Diaz,1953,Brazilian,Writer known for socially conscious storytelling and diverse casts.
+469,Paul,Flores,1955,German,Prolific creator with credits spanning five decades of comics.
+470,Donald,Mitchell,1956,Australian,Writer known for socially conscious storytelling and diverse casts.
+471,Ronald,Peterson,1964,German,Prolific creator with credits spanning five decades of comics.
+472,Edward,Martin,1993,German,Legendary artist whose style influenced an entire generation.
+473,Gary,Turner,1938,French,Award-winning writer known for complex character arcs.
+474,Edward,Anderson,1964,Italian,Prolific creator with credits spanning five decades of comics.
+475,Diane,Peterson,1947,Australian,Artist famed for intricate page layouts and expressive faces.
+476,Steven,Watson,1954,Canadian,Renowned penciler celebrated for dynamic action sequences.
+477,Dennis,James,1950,Australian,Award-winning writer known for complex character arcs.
+478,Rachel,Kim,1948,Australian,Award-winning writer known for complex character arcs.
+479,Richard,Morris,1962,Italian,Renowned penciler celebrated for dynamic action sequences.
+480,Carolyn,Young,1920,German,Veteran inker whose work defined an entire era of comics.
+481,Timothy,Castillo,1980,Italian,Pioneering colorist who revolutionized digital coloring techniques.
+482,Ryan,Rivera,1961,French,Award-winning writer known for complex character arcs.
+483,Roger,Thomas,1993,Australian,Artist famed for intricate page layouts and expressive faces.
+484,Arthur,Jones,1942,Spanish,Veteran inker whose work defined an entire era of comics.
+485,John,Reyes,1983,Canadian,Prolific creator with credits spanning five decades of comics.
+486,John,Johnson,1958,Brazilian,Two-time Eisner Award winner for outstanding comics writing.
+487,Jessica,Phillips,1956,Italian,Artist famed for intricate page layouts and expressive faces.
+488,Brenda,Reed,1937,German,Writer known for socially conscious storytelling and diverse casts.
+489,Steven,Young,1934,Japanese,Veteran inker whose work defined an entire era of comics.
+490,Heather,Ortiz,1952,Canadian,Award-winning writer known for complex character arcs.
+491,Arthur,Evans,1957,Brazilian,Pioneering colorist who revolutionized digital coloring techniques.
+492,Daniel,Mendoza,1971,Spanish,Artist famed for intricate page layouts and expressive faces.
+493,Amanda,Thomas,1971,British,Veteran inker whose work defined an entire era of comics.
+494,Nancy,Peterson,1961,Australian,Award-winning writer known for complex character arcs.
+495,Emily,Collins,1950,Italian,Prolific creator with credits spanning five decades of comics.
+496,Anthony,Mitchell,1994,Brazilian,Award-winning writer known for complex character arcs.
+497,Emily,Castillo,1966,Australian,Award-winning writer known for complex character arcs.
+498,Rachel,Martin,1979,French,Veteran inker whose work defined an entire era of comics.
+499,Sharon,Long,1984,French,Renowned penciler celebrated for dynamic action sequences.
+500,Christine,Campbell,1967,Brazilian,Pioneering colorist who revolutionized digital coloring techniques.

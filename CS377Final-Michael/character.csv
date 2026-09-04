@@ -1,0 +1,601 @@
+character_id,name,real_name,publisher_id,alignment,first_appeared,description
+1,Neoman,Patricia Davis,5,Antihero,1998-09-17,"Master of the arcane arts, wielder of forbidden knowledge."
+2,Megaveil,James Williams,7,Hero,1992-01-04,A vigilante who operates outside the law to protect the innocent.
+3,Alphastar,Nancy White,8,Villain,1962-12-16,A vigilante who operates outside the law to protect the innocent.
+4,Steelmind,John Miller,11,Hero,1972-02-01,A former soldier seeking redemption through heroic deeds.
+5,Solarforce,Maria Harris,18,Hero,2020-09-28,A mercenary with a strict personal code of honor.
+6,Megalance,Lisa Thomas,19,Hero,1944-03-29,A vigilante who operates outside the law to protect the innocent.
+7,Blazeshield,,8,Antihero,1972-02-07,"Once a villain, now fighting for the side of good."
+8,Voltforce,Susan Miller,9,Antihero,1999-04-29,A former soldier seeking redemption through heroic deeds.
+9,Quantumwing,Patricia Garcia,15,Hero,2021-01-08,"Master of the arcane arts, wielder of forbidden knowledge."
+10,Blazestorm,,2,Hero,1940-11-17,The last survivor of a destroyed civilization seeking justice.
+11,Froststrike,Charles Anderson,7,Villain,1973-06-30,"Raised in secret, now unleashed upon a world unprepared."
+12,Ironstrike,Nancy Young,9,Antihero,1976-06-08,"Driven by tragedy, defined by an unbreakable will."
+13,Frostforce,John Thompson,16,Hero,1942-03-24,A former soldier seeking redemption through heroic deeds.
+14,Ironwing,,14,Villain,1972-07-09,A mercenary with a strict personal code of honor.
+15,Quantumclaw,Nancy Smith,4,Villain,1986-03-05,"Once a villain, now fighting for the side of good."
+16,Thunderblade,Linda Harris,1,Neutral,2016-07-29,"Once a villain, now fighting for the side of good."
+17,Omegawing,Sarah Taylor,17,Villain,1951-09-18,The last survivor of a destroyed civilization seeking justice.
+18,Steellance,,17,Neutral,1991-09-26,The last survivor of a destroyed civilization seeking justice.
+19,Titanman,Susan Taylor,8,Hero,2016-10-08,"Driven by tragedy, defined by an unbreakable will."
+20,Megahawk,David Young,5,Hero,1980-08-22,"Master of the arcane arts, wielder of forbidden knowledge."
+21,Steelstrike,Lisa White,7,Neutral,2005-10-04,"Gifted with powers beyond comprehension, burdened by their weight."
+22,Neonhunter,,12,Villain,1984-06-07,"Raised in secret, now unleashed upon a world unprepared."
+23,Neofire,William Smith,19,Villain,1990-10-17,"Gifted with powers beyond comprehension, burdened by their weight."
+24,Ultrahawk,Maria Davis,3,Neutral,2015-02-14,The last survivor of a destroyed civilization seeking justice.
+25,Megaarrow,Karen Miller,18,Hero,2021-12-05,"Driven by tragedy, defined by an unbreakable will."
+26,Plasmabolt,Karen White,7,Hero,1997-02-13,A mercenary with a strict personal code of honor.
+27,Solarmind,Maria Brown,2,Villain,1968-06-10,A former soldier seeking redemption through heroic deeds.
+28,Blazestar,Joseph Jones,14,Hero,1979-07-04,"Gifted with powers beyond comprehension, burdened by their weight."
+29,Megaclaw,,18,Hero,1996-07-04,"Master of the arcane arts, wielder of forbidden knowledge."
+30,Blazewing,Karen Miller,13,Neutral,1952-10-08,A mercenary with a strict personal code of honor.
+31,Ultrahunter,Joseph Taylor,14,Villain,2003-07-16,"Master of the arcane arts, wielder of forbidden knowledge."
+32,Titanfist,Robert Johnson,19,Antihero,1943-06-21,The last survivor of a destroyed civilization seeking justice.
+33,Hyperwoman,Thomas Thompson,6,Hero,1983-07-24,A former soldier seeking redemption through heroic deeds.
+34,Steelhawk,Patricia Jackson,4,Neutral,1989-02-09,"Gifted with powers beyond comprehension, burdened by their weight."
+35,Plasmawave,David White,19,Villain,1966-05-20,"Once a villain, now fighting for the side of good."
+36,Shadowstorm,Richard Jones,10,Villain,2021-05-07,A former soldier seeking redemption through heroic deeds.
+37,Ultraclaw,Charles Brown,3,Villain,1983-05-21,"Once a villain, now fighting for the side of good."
+38,Ironforce,,8,Hero,1952-02-26,"Raised in secret, now unleashed upon a world unprepared."
+39,Alphashield,Thomas Smith,18,Hero,1997-07-07,A former soldier seeking redemption through heroic deeds.
+40,Neoblade,John Wilson,10,Villain,2002-05-19,The last survivor of a destroyed civilization seeking justice.
+41,Shadowstrike,Michael Johnson,3,Villain,2012-05-28,"Once a villain, now fighting for the side of good."
+42,Hyperman,John Wilson,6,Antihero,1987-06-30,A mercenary with a strict personal code of honor.
+43,Alphaman,John Young,2,Antihero,1990-04-05,"Master of the arcane arts, wielder of forbidden knowledge."
+44,Ironmind,Barbara Thomas,2,Antihero,1956-11-05,"Gifted with powers beyond comprehension, burdened by their weight."
+45,Neoforce,,14,Neutral,2005-03-28,A cosmic entity whose motives remain ambiguous to all.
+46,Ultrawing,William White,8,Hero,2008-08-21,A former soldier seeking redemption through heroic deeds.
+47,Frostwoman,,8,Hero,2020-05-25,"Raised in secret, now unleashed upon a world unprepared."
+48,Solarshield,,8,Hero,1997-03-19,"Gifted with powers beyond comprehension, burdened by their weight."
+49,Froststorm,David Wilson,12,Villain,1973-11-09,"Master of the arcane arts, wielder of forbidden knowledge."
+50,Thunderman,Michael Garcia,19,Neutral,1961-10-25,A vigilante who operates outside the law to protect the innocent.
+51,Neowave,William White,20,Neutral,1948-05-17,A mercenary with a strict personal code of honor.
+52,Plasmastar,Jessica Smith,17,Neutral,1986-04-22,"Gifted with powers beyond comprehension, burdened by their weight."
+53,Megastorm,Sarah Taylor,17,Hero,1974-08-22,The last survivor of a destroyed civilization seeking justice.
+54,Frostshield,Robert White,13,Villain,2018-12-30,A cosmic entity whose motives remain ambiguous to all.
+55,Quantumveil,Nancy Smith,10,Hero,1976-07-26,"Driven by tragedy, defined by an unbreakable will."
+56,Quantumstorm,Joseph Miller,17,Villain,2018-11-06,A cosmic entity whose motives remain ambiguous to all.
+57,Megashield,Lisa Anderson,3,Antihero,2005-05-22,"Gifted with powers beyond comprehension, burdened by their weight."
+58,Neonfire,,5,Hero,1959-12-20,"Raised in secret, now unleashed upon a world unprepared."
+59,Quantumhawk,Charles Miller,13,Villain,1959-11-21,A cosmic entity whose motives remain ambiguous to all.
+60,Ultrablade,,8,Hero,2023-12-11,"Master of the arcane arts, wielder of forbidden knowledge."
+61,Voltwoman,Sarah Harris,5,Antihero,1997-11-22,"Master of the arcane arts, wielder of forbidden knowledge."
+62,Alphawave,Joseph Lewis,17,Villain,2019-05-11,"Master of the arcane arts, wielder of forbidden knowledge."
+63,Voltwing,Karen Harris,9,Antihero,2013-05-07,"Once a villain, now fighting for the side of good."
+64,Omegabolt,Michael Harris,3,Antihero,1959-01-14,"Once a villain, now fighting for the side of good."
+65,Thunderstorm,,3,Hero,1958-09-30,A mercenary with a strict personal code of honor.
+66,Ironstar,Jessica Anderson,18,Villain,1943-08-03,"Gifted with powers beyond comprehension, burdened by their weight."
+67,Acidhunter,,19,Neutral,1939-10-03,"Driven by tragedy, defined by an unbreakable will."
+68,Frostbolt,Susan Taylor,13,Antihero,2023-07-16,A mercenary with a strict personal code of honor.
+69,Alphalance,,8,Villain,1962-06-27,A mercenary with a strict personal code of honor.
+70,Frostwing,,5,Neutral,1985-12-02,A vigilante who operates outside the law to protect the innocent.
+71,Frostveil,James Williams,14,Hero,1979-06-03,A cosmic entity whose motives remain ambiguous to all.
+72,Hyperstrike,Robert Harris,11,Hero,2016-12-01,A mercenary with a strict personal code of honor.
+73,Voidmind,David Martin,1,Antihero,1942-09-03,The last survivor of a destroyed civilization seeking justice.
+74,Blazehawk,,2,Antihero,2023-03-12,"Gifted with powers beyond comprehension, burdened by their weight."
+75,Shadowman,Patricia Jones,16,Villain,1988-08-06,"Gifted with powers beyond comprehension, burdened by their weight."
+76,Voltstrike,,6,Villain,2005-02-06,A former soldier seeking redemption through heroic deeds.
+77,Steelshield,James Taylor,19,Villain,2023-12-18,A mercenary with a strict personal code of honor.
+78,Froststar,Patricia Brown,10,Antihero,1991-11-13,A former soldier seeking redemption through heroic deeds.
+79,Plasmawoman,Jessica Thomas,3,Villain,1968-08-12,A vigilante who operates outside the law to protect the innocent.
+80,Acidbolt,Susan Harris,5,Villain,2003-11-01,"Master of the arcane arts, wielder of forbidden knowledge."
+81,Voidwave,,18,Antihero,1979-09-15,A mercenary with a strict personal code of honor.
+82,Plasmastrike,Patricia Williams,9,Antihero,1959-11-17,"Raised in secret, now unleashed upon a world unprepared."
+83,Ultrabolt,,6,Villain,1969-10-31,"Once a villain, now fighting for the side of good."
+84,Thunderstrike,,9,Villain,1984-05-07,"Gifted with powers beyond comprehension, burdened by their weight."
+85,Megafire,Karen Young,8,Villain,1995-12-12,"Raised in secret, now unleashed upon a world unprepared."
+86,Voltman,Patricia Jackson,8,Hero,1990-03-05,The last survivor of a destroyed civilization seeking justice.
+87,Titanlance,Jessica Young,11,Hero,1978-09-16,"Once a villain, now fighting for the side of good."
+88,Neonstrike,Robert Anderson,4,Antihero,2023-04-23,A cosmic entity whose motives remain ambiguous to all.
+89,Shadowstar,Michael Robinson,17,Villain,1947-01-08,"Gifted with powers beyond comprehension, burdened by their weight."
+90,Solarwing,Nancy Jones,9,Hero,1942-11-22,"Master of the arcane arts, wielder of forbidden knowledge."
+91,Neonfist,Karen Brown,1,Villain,1980-02-11,"Raised in secret, now unleashed upon a world unprepared."
+92,Voltstorm,Maria Wilson,16,Hero,1943-11-12,A mercenary with a strict personal code of honor.
+93,Titanhawk,Maria Jones,5,Antihero,2023-02-24,"Once a villain, now fighting for the side of good."
+94,Neolance,,20,Villain,1993-06-25,"Gifted with powers beyond comprehension, burdened by their weight."
+95,Omegahunter,Joseph Taylor,19,Neutral,1965-05-25,"Driven by tragedy, defined by an unbreakable will."
+96,Quantumwoman,Sarah Miller,7,Hero,1945-04-14,A cosmic entity whose motives remain ambiguous to all.
+97,Alphahawk,Jessica Harris,20,Villain,1940-12-05,"Gifted with powers beyond comprehension, burdened by their weight."
+98,Neonshield,Joseph Williams,8,Neutral,2008-09-05,"Driven by tragedy, defined by an unbreakable will."
+99,Shadowmind,Patricia Jones,9,Antihero,1944-05-28,A vigilante who operates outside the law to protect the innocent.
+100,Neonclaw,Barbara Jackson,9,Villain,1982-04-20,"Raised in secret, now unleashed upon a world unprepared."
+101,Megawave,Jessica Anderson,20,Hero,1946-03-12,"Gifted with powers beyond comprehension, burdened by their weight."
+102,Plasmaveil,,9,Villain,2006-06-18,A cosmic entity whose motives remain ambiguous to all.
+103,Titanarrow,Michael Garcia,19,Villain,2011-01-19,"Raised in secret, now unleashed upon a world unprepared."
+104,Megabolt,William Anderson,4,Antihero,1967-08-04,A mercenary with a strict personal code of honor.
+105,Titanshield,Richard Young,2,Villain,1966-03-21,"Once a villain, now fighting for the side of good."
+106,Frostarrow,,1,Villain,1986-09-05,"Raised in secret, now unleashed upon a world unprepared."
+107,Acidwoman,Susan Lewis,16,Villain,2006-03-08,A vigilante who operates outside the law to protect the innocent.
+108,Alphafist,,15,Antihero,1981-06-27,A former soldier seeking redemption through heroic deeds.
+109,Ultrawave,,6,Hero,1939-03-25,"Master of the arcane arts, wielder of forbidden knowledge."
+110,Acidhawk,Sarah Harris,4,Villain,1951-10-25,"Raised in secret, now unleashed upon a world unprepared."
+111,Neonarrow,Jessica Martin,16,Hero,1987-06-16,A cosmic entity whose motives remain ambiguous to all.
+112,Quantumarrow,John Williams,9,Antihero,2014-08-27,A mercenary with a strict personal code of honor.
+113,Thunderarrow,James Taylor,10,Antihero,1990-01-10,"Raised in secret, now unleashed upon a world unprepared."
+114,Ironclaw,Susan Anderson,18,Antihero,1971-11-04,"Raised in secret, now unleashed upon a world unprepared."
+115,Thunderstar,,8,Villain,1958-12-15,A mercenary with a strict personal code of honor.
+116,Hyperstorm,Richard Jackson,5,Villain,1941-04-28,A cosmic entity whose motives remain ambiguous to all.
+117,Omegaveil,Sarah Harris,4,Villain,1978-12-29,A vigilante who operates outside the law to protect the innocent.
+118,Ironhawk,Michael Anderson,20,Villain,1996-04-19,A former soldier seeking redemption through heroic deeds.
+119,Thunderlance,William Martin,18,Hero,1944-02-21,"Gifted with powers beyond comprehension, burdened by their weight."
+120,Megamind,,4,Villain,2000-04-06,"Once a villain, now fighting for the side of good."
+121,Ultrawoman,Maria Taylor,12,Hero,1951-01-23,"Gifted with powers beyond comprehension, burdened by their weight."
+122,Omegamind,Linda Garcia,6,Hero,2016-02-16,A mercenary with a strict personal code of honor.
+123,Quantumfire,Charles Jones,8,Villain,1960-10-14,"Raised in secret, now unleashed upon a world unprepared."
+124,Voidman,,15,Neutral,1998-10-16,"Master of the arcane arts, wielder of forbidden knowledge."
+125,Plasmashield,Jessica Wilson,15,Antihero,1955-11-15,A mercenary with a strict personal code of honor.
+126,Titanblade,Charles Thomas,19,Hero,2000-09-25,"Once a villain, now fighting for the side of good."
+127,Quantumbolt,,10,Antihero,1958-08-24,"Driven by tragedy, defined by an unbreakable will."
+128,Solarfire,Lisa Wilson,5,Villain,2019-01-18,A vigilante who operates outside the law to protect the innocent.
+129,Hyperveil,John Williams,10,Hero,1975-04-12,A cosmic entity whose motives remain ambiguous to all.
+130,Shadowfist,,12,Villain,2019-12-15,"Once a villain, now fighting for the side of good."
+131,Volthawk,Patricia Jackson,18,Hero,2008-12-08,A mercenary with a strict personal code of honor.
+132,Ultrastrike,Joseph Thomas,9,Villain,2011-10-13,The last survivor of a destroyed civilization seeking justice.
+133,Quantumlance,Lisa Davis,3,Villain,1979-08-27,"Once a villain, now fighting for the side of good."
+134,Acidblade,Maria Taylor,16,Hero,1959-01-24,"Master of the arcane arts, wielder of forbidden knowledge."
+135,Ironhunter,Nancy White,19,Antihero,1951-11-12,A mercenary with a strict personal code of honor.
+136,Neobolt,Michael Johnson,12,Hero,1977-11-23,"Gifted with powers beyond comprehension, burdened by their weight."
+137,Solarblade,,12,Villain,1995-11-07,The last survivor of a destroyed civilization seeking justice.
+138,Hyperhunter,Sarah Harris,3,Villain,1995-07-28,"Driven by tragedy, defined by an unbreakable will."
+139,Thunderfire,,19,Hero,2012-06-12,"Master of the arcane arts, wielder of forbidden knowledge."
+140,Shadowveil,Patricia Anderson,5,Antihero,1991-06-21,A vigilante who operates outside the law to protect the innocent.
+141,Voidfist,,18,Hero,1953-08-27,A former soldier seeking redemption through heroic deeds.
+142,Ultrafist,Patricia Robinson,11,Hero,1961-10-22,A vigilante who operates outside the law to protect the innocent.
+143,Omegablade,Karen Harris,12,Villain,1947-10-14,"Raised in secret, now unleashed upon a world unprepared."
+144,Omegafire,,2,Antihero,2019-07-12,"Master of the arcane arts, wielder of forbidden knowledge."
+145,Titanhunter,Sarah Martin,15,Hero,1945-04-01,The last survivor of a destroyed civilization seeking justice.
+146,Quantumfist,Michael Lewis,19,Villain,1967-03-05,A mercenary with a strict personal code of honor.
+147,Omegawave,Sarah Young,7,Villain,2017-09-03,"Gifted with powers beyond comprehension, burdened by their weight."
+148,Acidstorm,,13,Villain,1946-07-13,The last survivor of a destroyed civilization seeking justice.
+149,Voidforce,,16,Hero,2012-08-15,A former soldier seeking redemption through heroic deeds.
+150,Ironlance,Nancy Young,11,Villain,1974-11-09,The last survivor of a destroyed civilization seeking justice.
+151,Neonwave,Sarah Robinson,17,Hero,1996-12-01,"Raised in secret, now unleashed upon a world unprepared."
+152,Blazeblade,Nancy Thomas,4,Antihero,1989-07-04,"Gifted with powers beyond comprehension, burdened by their weight."
+153,Acidlance,,20,Villain,1995-08-29,"Master of the arcane arts, wielder of forbidden knowledge."
+154,Neonstorm,Linda Jones,19,Villain,1944-03-30,A cosmic entity whose motives remain ambiguous to all.
+155,Omegastar,Joseph Anderson,6,Hero,2002-09-27,The last survivor of a destroyed civilization seeking justice.
+156,Megawoman,Lisa Johnson,3,Hero,1997-05-21,A mercenary with a strict personal code of honor.
+157,Titanwave,Michael Miller,17,Hero,1976-07-27,A former soldier seeking redemption through heroic deeds.
+158,Neonveil,Barbara Johnson,8,Hero,1991-10-08,A vigilante who operates outside the law to protect the innocent.
+159,Ultrastar,Robert Jones,9,Hero,1948-10-06,A vigilante who operates outside the law to protect the innocent.
+160,Titanmind,Richard Young,8,Villain,2012-10-06,The last survivor of a destroyed civilization seeking justice.
+161,Megahunter,,2,Villain,1979-04-01,A former soldier seeking redemption through heroic deeds.
+162,Thunderveil,Richard White,10,Hero,1939-11-15,The last survivor of a destroyed civilization seeking justice.
+163,Steelwave,Susan Williams,14,Antihero,1959-10-30,A mercenary with a strict personal code of honor.
+164,Plasmahunter,Richard Taylor,11,Hero,2007-11-25,A cosmic entity whose motives remain ambiguous to all.
+165,Neoarrow,Susan Thomas,5,Hero,1951-02-20,"Once a villain, now fighting for the side of good."
+166,Shadowwing,David Garcia,16,Villain,1988-07-29,"Driven by tragedy, defined by an unbreakable will."
+167,Voltveil,Lisa Anderson,11,Hero,1944-02-16,"Raised in secret, now unleashed upon a world unprepared."
+168,Voltshield,,19,Hero,1983-07-08,A former soldier seeking redemption through heroic deeds.
+169,Hyperforce,,3,Villain,2014-09-25,A former soldier seeking redemption through heroic deeds.
+170,Quantumwave,Joseph Robinson,18,Neutral,2004-04-16,A vigilante who operates outside the law to protect the innocent.
+171,Omegafist,,15,Hero,2018-08-31,The last survivor of a destroyed civilization seeking justice.
+172,Steelwoman,Joseph Harris,17,Villain,1952-03-29,The last survivor of a destroyed civilization seeking justice.
+173,Frostmind,,20,Hero,1994-08-07,The last survivor of a destroyed civilization seeking justice.
+174,Ironstorm,John Thomas,10,Neutral,2000-08-30,A mercenary with a strict personal code of honor.
+175,Ironwave,David Taylor,18,Hero,2009-01-09,The last survivor of a destroyed civilization seeking justice.
+176,Ironarrow,Jessica Thompson,12,Hero,1965-09-16,A cosmic entity whose motives remain ambiguous to all.
+177,Titanstar,John Jones,3,Hero,2008-09-15,A former soldier seeking redemption through heroic deeds.
+178,Omegalance,,17,Hero,1968-03-19,"Driven by tragedy, defined by an unbreakable will."
+179,Frostfist,Lisa Garcia,15,Hero,1970-09-07,"Gifted with powers beyond comprehension, burdened by their weight."
+180,Voltwave,Joseph Davis,18,Hero,2010-07-18,"Raised in secret, now unleashed upon a world unprepared."
+181,Shadowforce,Charles Harris,15,Antihero,2007-10-23,A mercenary with a strict personal code of honor.
+182,Omegaarrow,Linda Miller,20,Hero,1960-06-06,A vigilante who operates outside the law to protect the innocent.
+183,Titanforce,Sarah Thompson,4,Hero,2006-06-18,A cosmic entity whose motives remain ambiguous to all.
+184,Voidclaw,,5,Antihero,1946-03-25,"Gifted with powers beyond comprehension, burdened by their weight."
+185,Ultramind,Thomas Thomas,8,Hero,1945-04-28,The last survivor of a destroyed civilization seeking justice.
+186,Blazeman,Sarah Anderson,5,Hero,1963-09-27,"Raised in secret, now unleashed upon a world unprepared."
+187,Ironbolt,James Williams,1,Hero,2012-11-28,A cosmic entity whose motives remain ambiguous to all.
+188,Neoshield,Sarah Johnson,8,Villain,2009-03-23,"Driven by tragedy, defined by an unbreakable will."
+189,Ultraarrow,John Taylor,14,Hero,1969-08-27,"Gifted with powers beyond comprehension, burdened by their weight."
+190,Plasmamind,David Thompson,12,Hero,1985-03-12,"Master of the arcane arts, wielder of forbidden knowledge."
+191,Solarstrike,Susan Williams,12,Hero,1996-12-13,A former soldier seeking redemption through heroic deeds.
+192,Plasmastorm,Susan Young,11,Antihero,1953-09-16,"Raised in secret, now unleashed upon a world unprepared."
+193,Titanwing,,3,Antihero,2022-08-28,"Raised in secret, now unleashed upon a world unprepared."
+194,Hypershield,Robert Johnson,11,Neutral,1984-03-28,A mercenary with a strict personal code of honor.
+195,Alphabolt,Robert Taylor,12,Antihero,1942-04-16,The last survivor of a destroyed civilization seeking justice.
+196,Voidblade,,14,Antihero,2004-09-07,"Raised in secret, now unleashed upon a world unprepared."
+197,Steelbolt,Susan Thompson,9,Antihero,2003-03-26,A mercenary with a strict personal code of honor.
+198,Acidwing,Susan Harris,2,Antihero,2019-10-14,The last survivor of a destroyed civilization seeking justice.
+199,Quantummind,Maria Williams,13,Hero,2009-11-14,A cosmic entity whose motives remain ambiguous to all.
+200,Hyperfist,Susan Thomas,13,Neutral,1940-11-27,"Driven by tragedy, defined by an unbreakable will."
+201,Plasmafist,Richard Anderson,9,Hero,1948-03-06,A vigilante who operates outside the law to protect the innocent.
+202,Alphablade,Michael Harris,7,Neutral,1963-08-15,"Raised in secret, now unleashed upon a world unprepared."
+203,Shadowblade,David Harris,6,Antihero,1977-12-07,A former soldier seeking redemption through heroic deeds.
+204,Thunderforce,Nancy Young,10,Antihero,2014-05-19,A cosmic entity whose motives remain ambiguous to all.
+205,Steelforce,Sarah Miller,5,Hero,1982-04-28,A vigilante who operates outside the law to protect the innocent.
+206,Solarlance,Joseph Young,5,Villain,1945-09-26,A former soldier seeking redemption through heroic deeds.
+207,Acidmind,,3,Hero,1966-06-11,A former soldier seeking redemption through heroic deeds.
+208,Voltclaw,Susan Jones,18,Villain,1954-04-29,A cosmic entity whose motives remain ambiguous to all.
+209,Acidarrow,,2,Antihero,1984-06-25,A cosmic entity whose motives remain ambiguous to all.
+210,Neonwing,Patricia Thomas,17,Antihero,2013-11-22,A former soldier seeking redemption through heroic deeds.
+211,Voidstar,Nancy Wilson,5,Villain,1993-02-14,"Master of the arcane arts, wielder of forbidden knowledge."
+212,Steelveil,,5,Hero,1994-01-09,"Driven by tragedy, defined by an unbreakable will."
+213,Acidwave,Karen Young,10,Villain,1965-02-07,"Raised in secret, now unleashed upon a world unprepared."
+214,Blazehunter,David Johnson,6,Villain,1981-06-11,"Raised in secret, now unleashed upon a world unprepared."
+215,Solarhunter,Susan Thompson,18,Hero,1959-09-09,"Raised in secret, now unleashed upon a world unprepared."
+216,Neostrike,John Brown,2,Hero,1972-06-18,"Driven by tragedy, defined by an unbreakable will."
+217,Acidfire,,6,Antihero,2021-10-09,"Driven by tragedy, defined by an unbreakable will."
+218,Omegaclaw,Barbara Martin,1,Hero,1973-04-12,"Master of the arcane arts, wielder of forbidden knowledge."
+219,Voltfire,Susan Johnson,2,Hero,1991-08-10,"Raised in secret, now unleashed upon a world unprepared."
+220,Neonlance,Sarah White,5,Antihero,2003-04-08,The last survivor of a destroyed civilization seeking justice.
+221,Neonhawk,Joseph Young,9,Antihero,1993-11-30,"Driven by tragedy, defined by an unbreakable will."
+222,Neofist,,13,Hero,1968-06-03,"Master of the arcane arts, wielder of forbidden knowledge."
+223,Solarfist,Thomas Jackson,17,Hero,1941-06-29,A cosmic entity whose motives remain ambiguous to all.
+224,Thunderbolt,John Lewis,17,Hero,2021-07-23,"Driven by tragedy, defined by an unbreakable will."
+225,Thunderwing,Lisa Taylor,19,Hero,2012-04-23,"Master of the arcane arts, wielder of forbidden knowledge."
+226,Solarstorm,Jessica Robinson,10,Antihero,2003-01-27,A vigilante who operates outside the law to protect the innocent.
+227,Voidveil,Maria Robinson,16,Hero,1994-06-07,"Driven by tragedy, defined by an unbreakable will."
+228,Blazewoman,Sarah Miller,1,Villain,1975-07-28,A cosmic entity whose motives remain ambiguous to all.
+229,Acidstar,Lisa Martin,2,Antihero,1984-07-14,"Gifted with powers beyond comprehension, burdened by their weight."
+230,Alphastorm,,16,Villain,1966-02-24,A cosmic entity whose motives remain ambiguous to all.
+231,Voltlance,Susan Wilson,20,Villain,2023-11-21,"Gifted with powers beyond comprehension, burdened by their weight."
+232,Voidlance,Barbara Taylor,7,Villain,1981-11-14,The last survivor of a destroyed civilization seeking justice.
+233,Alphastrike,Charles Young,13,Antihero,1973-05-25,The last survivor of a destroyed civilization seeking justice.
+234,Ironshield,David Thomas,15,Villain,2005-01-17,"Raised in secret, now unleashed upon a world unprepared."
+235,Ironblade,Charles Davis,8,Hero,2019-03-18,"Master of the arcane arts, wielder of forbidden knowledge."
+236,Blazefire,Jessica Anderson,16,Hero,2007-02-24,A cosmic entity whose motives remain ambiguous to all.
+237,Ultralance,,6,Villain,2021-11-20,"Raised in secret, now unleashed upon a world unprepared."
+238,Neonwoman,,3,Villain,1958-11-01,"Master of the arcane arts, wielder of forbidden knowledge."
+239,Hyperwing,Linda Johnson,13,Antihero,1954-09-19,"Once a villain, now fighting for the side of good."
+240,Quantumblade,,11,Hero,1995-07-15,"Master of the arcane arts, wielder of forbidden knowledge."
+241,Steelman,Barbara Robinson,7,Hero,2014-10-23,A mercenary with a strict personal code of honor.
+242,Thunderhawk,Sarah Garcia,5,Villain,2021-12-16,"Gifted with powers beyond comprehension, burdened by their weight."
+243,Frostfire,Michael Anderson,10,Villain,1989-05-25,A vigilante who operates outside the law to protect the innocent.
+244,Neoclaw,Richard Thompson,10,Villain,1995-04-21,"Once a villain, now fighting for the side of good."
+245,Solarwave,John Martin,5,Villain,1992-05-05,The last survivor of a destroyed civilization seeking justice.
+246,Shadowfire,Lisa Williams,17,Villain,2001-02-20,The last survivor of a destroyed civilization seeking justice.
+247,Neowoman,,17,Hero,1986-02-23,A cosmic entity whose motives remain ambiguous to all.
+248,Steelstorm,,15,Hero,1956-06-05,"Driven by tragedy, defined by an unbreakable will."
+249,Hyperclaw,Jessica Harris,19,Hero,1979-06-26,"Once a villain, now fighting for the side of good."
+250,Acidforce,Nancy Johnson,3,Neutral,1980-05-08,A vigilante who operates outside the law to protect the innocent.
+251,Neonmind,John White,12,Neutral,1972-04-25,"Raised in secret, now unleashed upon a world unprepared."
+252,Frosthunter,Nancy Jones,12,Hero,1986-03-14,A mercenary with a strict personal code of honor.
+253,Ultrashield,Nancy White,18,Hero,1958-08-09,"Gifted with powers beyond comprehension, burdened by their weight."
+254,Hypermind,James Davis,7,Hero,1991-04-15,A vigilante who operates outside the law to protect the innocent.
+255,Hyperfire,Richard Harris,8,Villain,2005-09-05,A vigilante who operates outside the law to protect the innocent.
+256,Acidshield,Nancy Robinson,6,Villain,1976-04-29,"Master of the arcane arts, wielder of forbidden knowledge."
+257,Titanwoman,,13,Antihero,1966-08-06,A mercenary with a strict personal code of honor.
+258,Acidfist,Linda Young,16,Hero,1958-03-21,"Once a villain, now fighting for the side of good."
+259,Hyperlance,Jessica Young,17,Hero,1959-10-15,"Once a villain, now fighting for the side of good."
+260,Solarhawk,Robert Johnson,9,Hero,1992-04-10,"Driven by tragedy, defined by an unbreakable will."
+261,Hyperhawk,Charles Young,7,Villain,2016-01-02,The last survivor of a destroyed civilization seeking justice.
+262,Neonman,Robert Brown,16,Neutral,2000-05-29,"Driven by tragedy, defined by an unbreakable will."
+263,Shadowhunter,,18,Hero,1963-05-25,A mercenary with a strict personal code of honor.
+264,Voltblade,,16,Antihero,1966-09-24,"Gifted with powers beyond comprehension, burdened by their weight."
+265,Plasmafire,James Wilson,18,Neutral,1989-12-16,A mercenary with a strict personal code of honor.
+266,Titanbolt,Susan Garcia,5,Antihero,1981-10-23,A cosmic entity whose motives remain ambiguous to all.
+267,Alphawoman,David Johnson,1,Villain,2013-08-03,"Gifted with powers beyond comprehension, burdened by their weight."
+268,Megafist,Thomas Harris,12,Hero,1995-03-20,"Driven by tragedy, defined by an unbreakable will."
+269,Ultraman,Jessica Smith,1,Villain,1962-08-25,"Master of the arcane arts, wielder of forbidden knowledge."
+270,Steelblade,,17,Hero,1955-03-22,"Driven by tragedy, defined by an unbreakable will."
+271,Omegastrike,,9,Antihero,1945-02-02,The last survivor of a destroyed civilization seeking justice.
+272,Frostclaw,Patricia Taylor,3,Villain,2014-12-30,A vigilante who operates outside the law to protect the innocent.
+273,Titanstrike,David Wilson,18,Villain,1940-12-14,A cosmic entity whose motives remain ambiguous to all.
+274,Blazeveil,,13,Villain,1986-07-01,The last survivor of a destroyed civilization seeking justice.
+275,Solarwoman,Patricia Williams,11,Villain,1993-01-27,"Driven by tragedy, defined by an unbreakable will."
+276,Voltbolt,Nancy Jackson,14,Hero,1990-07-24,A mercenary with a strict personal code of honor.
+277,Megaman,,15,Hero,1962-03-15,A former soldier seeking redemption through heroic deeds.
+278,Alphaarrow,James Williams,12,Villain,1991-07-22,"Driven by tragedy, defined by an unbreakable will."
+279,Thunderhunter,Jessica Jackson,3,Antihero,1988-03-13,"Gifted with powers beyond comprehension, burdened by their weight."
+280,Plasmaarrow,Richard Garcia,5,Hero,1962-01-30,"Raised in secret, now unleashed upon a world unprepared."
+281,Neonbolt,,12,Hero,1960-02-15,"Raised in secret, now unleashed upon a world unprepared."
+282,Shadowclaw,Barbara Smith,13,Hero,1993-08-22,A mercenary with a strict personal code of honor.
+283,Thunderclaw,Lisa Jones,10,Hero,2022-12-26,"Gifted with powers beyond comprehension, burdened by their weight."
+284,Titanstorm,Richard Anderson,10,Antihero,1994-10-12,"Raised in secret, now unleashed upon a world unprepared."
+285,Voidhunter,Charles Miller,19,Neutral,1954-02-21,"Master of the arcane arts, wielder of forbidden knowledge."
+286,Blazestrike,Jessica Jackson,3,Villain,1991-08-24,"Raised in secret, now unleashed upon a world unprepared."
+287,Megablade,,12,Hero,1992-12-19,A vigilante who operates outside the law to protect the innocent.
+288,Thundermind,Sarah Wilson,8,Villain,1984-07-17,"Master of the arcane arts, wielder of forbidden knowledge."
+289,Blazeclaw,Joseph Robinson,17,Hero,1940-03-15,"Raised in secret, now unleashed upon a world unprepared."
+290,Shadowarrow,Karen Brown,15,Antihero,1978-08-04,The last survivor of a destroyed civilization seeking justice.
+291,Hyperblade,William Brown,6,Neutral,2004-06-07,"Gifted with powers beyond comprehension, burdened by their weight."
+292,Alphawing,Jessica Harris,8,Antihero,1994-07-01,A cosmic entity whose motives remain ambiguous to all.
+293,Frostman,Robert Harris,19,Villain,1938-05-26,"Gifted with powers beyond comprehension, burdened by their weight."
+294,Voidbolt,William Lewis,13,Villain,1990-08-30,A former soldier seeking redemption through heroic deeds.
+295,Neowing,John Thompson,13,Villain,1950-05-15,"Driven by tragedy, defined by an unbreakable will."
+296,Solarman,Robert Jackson,18,Villain,1982-05-29,A mercenary with a strict personal code of honor.
+297,Plasmaman,,8,Hero,1962-08-29,"Gifted with powers beyond comprehension, burdened by their weight."
+298,Steelclaw,Karen Young,17,Hero,1948-03-31,"Once a villain, now fighting for the side of good."
+299,Alphaforce,Maria Harris,18,Hero,1976-02-22,A former soldier seeking redemption through heroic deeds.
+300,Thundershield,Michael Thompson,4,Hero,2005-04-18,A mercenary with a strict personal code of honor.
+301,Ironfist,William Davis,13,Villain,1989-10-21,"Once a villain, now fighting for the side of good."
+302,Solarclaw,,11,Villain,2015-12-15,A former soldier seeking redemption through heroic deeds.
+303,Thunderwoman,Joseph Smith,4,Neutral,1952-03-04,"Raised in secret, now unleashed upon a world unprepared."
+304,Megaforce,Susan Garcia,2,Hero,1965-05-29,"Gifted with powers beyond comprehension, burdened by their weight."
+305,Shadowbolt,Charles Davis,17,Villain,1938-11-01,A vigilante who operates outside the law to protect the innocent.
+306,Neostorm,Barbara Jones,13,Antihero,2005-07-27,A cosmic entity whose motives remain ambiguous to all.
+307,Solarstar,John White,20,Villain,2015-02-25,"Gifted with powers beyond comprehension, burdened by their weight."
+308,Thunderfist,David Davis,18,Villain,2002-09-13,"Driven by tragedy, defined by an unbreakable will."
+309,Neonstar,Thomas Miller,13,Hero,1942-11-24,"Gifted with powers beyond comprehension, burdened by their weight."
+310,Ultraforce,,5,Hero,2013-04-08,"Driven by tragedy, defined by an unbreakable will."
+311,Ultraveil,Michael Miller,2,Neutral,2023-02-10,A mercenary with a strict personal code of honor.
+312,Omegashield,Thomas White,14,Antihero,1945-05-24,"Master of the arcane arts, wielder of forbidden knowledge."
+313,Voidwing,Michael Brown,1,Hero,1976-07-08,"Once a villain, now fighting for the side of good."
+314,Omegahawk,Charles Williams,16,Villain,1970-04-23,A vigilante who operates outside the law to protect the innocent.
+315,Titanveil,Linda Wilson,4,Antihero,1998-06-24,A former soldier seeking redemption through heroic deeds.
+316,Blazearrow,James Davis,2,Villain,1972-05-11,A cosmic entity whose motives remain ambiguous to all.
+317,Alphamind,Patricia White,11,Hero,1944-12-27,"Driven by tragedy, defined by an unbreakable will."
+318,Omegawoman,Thomas Johnson,13,Hero,1979-09-23,"Once a villain, now fighting for the side of good."
+319,Solarveil,,7,Antihero,1987-01-13,"Gifted with powers beyond comprehension, burdened by their weight."
+320,Ironman,,1,Hero,1969-01-29,A vigilante who operates outside the law to protect the innocent.
+321,Neostar,Patricia White,16,Neutral,1950-10-10,"Once a villain, now fighting for the side of good."
+322,Plasmablade,Richard Williams,19,Villain,1977-01-09,A cosmic entity whose motives remain ambiguous to all.
+323,Voidstorm,,13,Antihero,2003-12-22,The last survivor of a destroyed civilization seeking justice.
+324,Voidfire,Robert Jones,19,Hero,1947-06-25,A cosmic entity whose motives remain ambiguous to all.
+325,Neohawk,Barbara Lewis,2,Hero,2014-11-06,The last survivor of a destroyed civilization seeking justice.
+326,Blazeforce,Maria Taylor,9,Antihero,1953-08-07,A vigilante who operates outside the law to protect the innocent.
+327,Blazefist,Richard Thomas,3,Villain,1961-03-22,A former soldier seeking redemption through heroic deeds.
+328,Ironwoman,Lisa Davis,10,Villain,2017-03-13,"Master of the arcane arts, wielder of forbidden knowledge."
+329,Megastrike,Jessica Miller,17,Hero,2009-12-19,"Master of the arcane arts, wielder of forbidden knowledge."
+330,Solarbolt,Karen Thomas,19,Villain,1972-11-04,"Once a villain, now fighting for the side of good."
+331,Thunderwave,Michael Johnson,16,Villain,2006-10-18,"Driven by tragedy, defined by an unbreakable will."
+332,Steelwing,William Thomas,19,Hero,2000-11-06,The last survivor of a destroyed civilization seeking justice.
+333,Ironveil,,16,Villain,1953-10-01,"Raised in secret, now unleashed upon a world unprepared."
+334,Quantumforce,Charles Garcia,13,Hero,1999-10-08,"Once a villain, now fighting for the side of good."
+335,Voltmind,,14,Villain,1971-12-23,The last survivor of a destroyed civilization seeking justice.
+336,Alphahunter,Karen Robinson,8,Hero,1944-08-12,A vigilante who operates outside the law to protect the innocent.
+337,Plasmalance,,5,Hero,1938-05-06,A mercenary with a strict personal code of honor.
+338,Blazebolt,Richard Johnson,17,Villain,1984-05-14,"Driven by tragedy, defined by an unbreakable will."
+339,Frostlance,William Wilson,17,Villain,2016-05-12,A vigilante who operates outside the law to protect the innocent.
+340,Neomind,Charles Robinson,19,Antihero,2022-04-20,A former soldier seeking redemption through heroic deeds.
+341,Neoveil,,10,Antihero,2016-12-17,The last survivor of a destroyed civilization seeking justice.
+342,Acidstrike,Karen Robinson,20,Villain,1953-06-13,"Once a villain, now fighting for the side of good."
+343,Megastar,Jessica Martin,17,Antihero,2011-08-29,A vigilante who operates outside the law to protect the innocent.
+344,Steelstar,,7,Antihero,1960-05-20,A vigilante who operates outside the law to protect the innocent.
+345,Voltarrow,Sarah Smith,8,Hero,1991-04-18,"Raised in secret, now unleashed upon a world unprepared."
+346,Ultrafire,Barbara Wilson,14,Antihero,2014-05-26,The last survivor of a destroyed civilization seeking justice.
+347,Quantumhunter,James Thompson,12,Villain,1991-04-09,"Driven by tragedy, defined by an unbreakable will."
+348,Voidstrike,Barbara Miller,5,Villain,1959-07-24,A vigilante who operates outside the law to protect the innocent.
+349,Blazelance,Karen Thomas,17,Hero,1953-04-02,"Master of the arcane arts, wielder of forbidden knowledge."
+350,Plasmaclaw,Linda Williams,16,Hero,1953-11-12,The last survivor of a destroyed civilization seeking justice.
+351,Plasmawing,David Jones,20,Villain,1976-07-10,A mercenary with a strict personal code of honor.
+352,Ultrastorm,,17,Hero,1998-09-18,A vigilante who operates outside the law to protect the innocent.
+353,Omegastorm,John Anderson,16,Hero,1954-11-27,A cosmic entity whose motives remain ambiguous to all.
+354,Acidclaw,Nancy Wilson,16,Antihero,1956-06-08,A vigilante who operates outside the law to protect the innocent.
+355,Quantumstar,,17,Neutral,1970-02-10,A mercenary with a strict personal code of honor.
+356,Neonforce,,11,Villain,1948-05-25,A former soldier seeking redemption through heroic deeds.
+357,Voidhawk,William Garcia,4,Villain,1978-12-16,"Once a villain, now fighting for the side of good."
+358,Quantumman,,5,Villain,1981-10-16,A former soldier seeking redemption through heroic deeds.
+359,Steelarrow,,16,Antihero,1944-09-19,"Raised in secret, now unleashed upon a world unprepared."
+360,Hyperarrow,Richard Jackson,8,Hero,1977-11-07,"Driven by tragedy, defined by an unbreakable will."
+361,Titanclaw,Karen Smith,4,Villain,1941-03-20,"Master of the arcane arts, wielder of forbidden knowledge."
+362,Quantumshield,,18,Hero,1998-03-29,"Raised in secret, now unleashed upon a world unprepared."
+363,Omegaforce,Maria Garcia,16,Hero,2002-04-24,A mercenary with a strict personal code of honor.
+364,Voltstar,Sarah White,2,Neutral,2013-02-18,"Driven by tragedy, defined by an unbreakable will."
+365,Frostwave,William Thompson,13,Villain,1992-08-20,"Gifted with powers beyond comprehension, burdened by their weight."
+366,Voltfist,Lisa Thompson,10,Antihero,1987-02-23,The last survivor of a destroyed civilization seeking justice.
+367,Shadowlance,Joseph Brown,20,Antihero,2004-05-05,"Master of the arcane arts, wielder of forbidden knowledge."
+368,Shadowshield,David Garcia,6,Antihero,1948-09-15,A mercenary with a strict personal code of honor.
+369,Frosthawk,Robert Anderson,11,Hero,1957-08-07,"Driven by tragedy, defined by an unbreakable will."
+370,Neohunter,Barbara Smith,17,Antihero,1971-08-22,"Master of the arcane arts, wielder of forbidden knowledge."
+371,Volthunter,James Jackson,4,Villain,1995-07-19,"Driven by tragedy, defined by an unbreakable will."
+372,Solararrow,Barbara Lewis,3,Hero,2021-02-19,"Raised in secret, now unleashed upon a world unprepared."
+373,Blazewave,,7,Hero,1998-03-13,"Driven by tragedy, defined by an unbreakable will."
+374,Ironfire,Lisa Williams,7,Hero,1978-06-06,The last survivor of a destroyed civilization seeking justice.
+375,Omegaman,,19,Villain,1990-12-08,"Gifted with powers beyond comprehension, burdened by their weight."
+376,Titanfire,Susan Davis,2,Villain,1984-06-18,The last survivor of a destroyed civilization seeking justice.
+377,Steelfire,Michael Miller,5,Hero,1970-07-01,"Driven by tragedy, defined by an unbreakable will."
+378,Steelfist,Maria Robinson,5,Hero,1961-03-03,A cosmic entity whose motives remain ambiguous to all.
+379,Plasmahawk,Richard Jones,4,Hero,1984-11-23,"Master of the arcane arts, wielder of forbidden knowledge."
+380,Acidveil,Nancy White,19,Hero,1962-09-21,A mercenary with a strict personal code of honor.
+381,Voidshield,Richard Jones,4,Antihero,1978-01-25,A cosmic entity whose motives remain ambiguous to all.
+382,Steelhunter,,1,Antihero,2011-11-10,A cosmic entity whose motives remain ambiguous to all.
+383,Hyperwave,Patricia Lewis,6,Villain,1970-04-10,"Gifted with powers beyond comprehension, burdened by their weight."
+384,Alphaveil,Michael Davis,20,Neutral,1978-10-19,A mercenary with a strict personal code of honor.
+385,Quantumstrike,Michael Davis,9,Villain,1993-01-01,The last survivor of a destroyed civilization seeking justice.
+386,Frostblade,Maria Miller,9,Villain,1994-07-05,A former soldier seeking redemption through heroic deeds.
+387,Megawing,William Anderson,10,Antihero,1992-04-24,A mercenary with a strict personal code of honor.
+388,Alphaclaw,Nancy Garcia,19,Villain,1994-08-13,"Driven by tragedy, defined by an unbreakable will."
+389,Alphafire,,15,Hero,1974-12-25,"Once a villain, now fighting for the side of good."
+390,Blazemind,Linda Wilson,19,Hero,2008-10-18,"Gifted with powers beyond comprehension, burdened by their weight."
+391,Voidwoman,Joseph Young,10,Villain,1981-12-20,"Gifted with powers beyond comprehension, burdened by their weight."
+392,Voidarrow,David Taylor,3,Neutral,1984-08-09,A former soldier seeking redemption through heroic deeds.
+393,Plasmaforce,Jessica Brown,6,Antihero,1987-05-05,A mercenary with a strict personal code of honor.
+394,Shadowhawk,Karen Garcia,16,Antihero,1999-11-13,"Driven by tragedy, defined by an unbreakable will."
+395,Shadowwave,Joseph Smith,3,Hero,1962-05-05,The last survivor of a destroyed civilization seeking justice.
+396,Acidman,,14,Hero,1998-03-25,"Gifted with powers beyond comprehension, burdened by their weight."
+397,Shadowwoman,Maria Thomas,2,Hero,1940-11-28,"Driven by tragedy, defined by an unbreakable will."
+398,Hyperstar,,15,Villain,2009-09-07,"Raised in secret, now unleashed upon a world unprepared."
+399,Omegawoman,Nancy Thomas,14,Villain,1996-07-01,"Once a villain, now fighting for the side of good."
+400,Neonblade,Linda Robinson,3,Antihero,1947-07-17,A former soldier seeking redemption through heroic deeds.
+401,Hyperbolt,Thomas Johnson,14,Villain,1980-12-30,A former soldier seeking redemption through heroic deeds.
+402,Ironclaw,,20,Villain,1968-09-08,A cosmic entity whose motives remain ambiguous to all.
+403,Neonhawk,,14,Antihero,1998-04-05,A former soldier seeking redemption through heroic deeds.
+404,Omegamind,Maria Young,3,Neutral,1984-01-23,A former soldier seeking redemption through heroic deeds.
+405,Solarblade,Jessica Brown,4,Hero,1963-12-25,A vigilante who operates outside the law to protect the innocent.
+406,Voltmind,,20,Hero,1996-05-25,A vigilante who operates outside the law to protect the innocent.
+407,Titanclaw,Maria Williams,10,Villain,2020-06-09,"Raised in secret, now unleashed upon a world unprepared."
+408,Neoclaw,Robert Garcia,7,Hero,1954-05-24,"Gifted with powers beyond comprehension, burdened by their weight."
+409,Solarveil,Thomas Lewis,6,Villain,1951-10-09,The last survivor of a destroyed civilization seeking justice.
+410,Alphahunter,Michael Miller,6,Hero,1989-04-22,"Gifted with powers beyond comprehension, burdened by their weight."
+411,Titanveil,,2,Hero,1951-08-06,"Raised in secret, now unleashed upon a world unprepared."
+412,Solarbolt,,20,Villain,1952-03-18,"Master of the arcane arts, wielder of forbidden knowledge."
+413,Alphastrike,Michael Thomas,15,Hero,1969-08-20,"Once a villain, now fighting for the side of good."
+414,Titanfire,Nancy Anderson,1,Hero,2022-05-22,"Once a villain, now fighting for the side of good."
+415,Ironwave,Barbara Anderson,11,Hero,1974-08-25,A mercenary with a strict personal code of honor.
+416,Plasmafire,Karen Wilson,14,Hero,1968-04-24,A cosmic entity whose motives remain ambiguous to all.
+417,Voidforce,Karen Jackson,10,Hero,2021-05-06,"Gifted with powers beyond comprehension, burdened by their weight."
+418,Steelveil,David Thomas,1,Antihero,2017-04-06,A mercenary with a strict personal code of honor.
+419,Ultrafist,,3,Antihero,2000-09-25,The last survivor of a destroyed civilization seeking justice.
+420,Megastrike,Barbara Miller,20,Villain,1943-12-30,A vigilante who operates outside the law to protect the innocent.
+421,Solarblade,,5,Villain,1989-06-30,A cosmic entity whose motives remain ambiguous to all.
+422,Ironstar,David Thomas,20,Neutral,1990-05-06,"Raised in secret, now unleashed upon a world unprepared."
+423,Shadowwave,Barbara Johnson,7,Villain,1983-03-25,"Once a villain, now fighting for the side of good."
+424,Voidclaw,,14,Neutral,1997-05-09,A mercenary with a strict personal code of honor.
+425,Alphaveil,Patricia Garcia,13,Hero,1993-04-16,A vigilante who operates outside the law to protect the innocent.
+426,Voidblade,,18,Hero,2008-04-15,"Gifted with powers beyond comprehension, burdened by their weight."
+427,Ironbolt,Nancy Anderson,4,Villain,1940-11-30,The last survivor of a destroyed civilization seeking justice.
+428,Titanhunter,Susan Johnson,18,Hero,2013-08-15,A mercenary with a strict personal code of honor.
+429,Ironwoman,Lisa Williams,4,Antihero,1995-05-10,"Driven by tragedy, defined by an unbreakable will."
+430,Neonstrike,Linda Robinson,11,Hero,2015-07-11,A mercenary with a strict personal code of honor.
+431,Alphastorm,Jessica Thomas,11,Antihero,2013-07-02,"Driven by tragedy, defined by an unbreakable will."
+432,Ultrablade,Joseph Brown,5,Hero,1976-01-11,The last survivor of a destroyed civilization seeking justice.
+433,Steelbolt,Nancy Young,8,Hero,1971-11-10,The last survivor of a destroyed civilization seeking justice.
+434,Neonlance,Karen Lewis,3,Villain,2018-11-06,A mercenary with a strict personal code of honor.
+435,Shadowfist,Karen Garcia,17,Hero,1988-03-28,"Driven by tragedy, defined by an unbreakable will."
+436,Thunderclaw,Charles Young,18,Villain,2014-11-27,"Driven by tragedy, defined by an unbreakable will."
+437,Neonwoman,,9,Villain,1990-05-08,"Gifted with powers beyond comprehension, burdened by their weight."
+438,Neonveil,Barbara Martin,1,Antihero,1938-02-09,A cosmic entity whose motives remain ambiguous to all.
+439,Ironstorm,Charles Anderson,13,Hero,1985-11-20,"Once a villain, now fighting for the side of good."
+440,Ultrahunter,,16,Villain,1946-07-10,A vigilante who operates outside the law to protect the innocent.
+441,Omegastar,David Miller,8,Antihero,1984-10-03,"Driven by tragedy, defined by an unbreakable will."
+442,Alphaclaw,Karen Brown,15,Hero,1955-08-20,A vigilante who operates outside the law to protect the innocent.
+443,Ultraveil,,3,Hero,2005-07-21,A cosmic entity whose motives remain ambiguous to all.
+444,Solarwave,,2,Antihero,1961-03-07,A former soldier seeking redemption through heroic deeds.
+445,Alphaforce,Michael Young,13,Villain,1958-11-16,A vigilante who operates outside the law to protect the innocent.
+446,Plasmahunter,Linda Garcia,6,Antihero,1938-10-10,A former soldier seeking redemption through heroic deeds.
+447,Plasmalance,,16,Hero,1951-10-23,A mercenary with a strict personal code of honor.
+448,Alphawave,Charles Young,2,Villain,2014-11-30,The last survivor of a destroyed civilization seeking justice.
+449,Ultralance,Nancy Lewis,13,Hero,1969-06-08,"Master of the arcane arts, wielder of forbidden knowledge."
+450,Alphashield,Thomas Johnson,13,Villain,2003-08-10,"Gifted with powers beyond comprehension, burdened by their weight."
+451,Frostblade,John Smith,16,Hero,1974-01-17,A mercenary with a strict personal code of honor.
+452,Plasmastorm,Joseph Martin,14,Villain,1984-02-06,"Gifted with powers beyond comprehension, burdened by their weight."
+453,Voidlance,,10,Hero,1988-07-16,"Master of the arcane arts, wielder of forbidden knowledge."
+454,Frosthawk,Richard Anderson,14,Villain,1958-12-14,"Raised in secret, now unleashed upon a world unprepared."
+455,Ironveil,Richard Young,11,Antihero,1950-10-30,A vigilante who operates outside the law to protect the innocent.
+456,Quantumforce,Barbara Jones,13,Villain,1970-09-14,"Gifted with powers beyond comprehension, burdened by their weight."
+457,Steelhunter,Jessica Jones,9,Antihero,1989-07-07,"Raised in secret, now unleashed upon a world unprepared."
+458,Voidstorm,Linda Smith,5,Antihero,1971-11-06,"Master of the arcane arts, wielder of forbidden knowledge."
+459,Hyperfire,Linda Lewis,12,Antihero,1971-05-03,"Master of the arcane arts, wielder of forbidden knowledge."
+460,Hyperfist,,9,Neutral,2009-05-11,"Master of the arcane arts, wielder of forbidden knowledge."
+461,Neoveil,Nancy Robinson,3,Villain,2002-04-12,A vigilante who operates outside the law to protect the innocent.
+462,Quantumhunter,Lisa White,8,Neutral,1938-09-18,A vigilante who operates outside the law to protect the innocent.
+463,Blazemind,Patricia Anderson,16,Antihero,2003-03-29,"Driven by tragedy, defined by an unbreakable will."
+464,Neoblade,Karen Robinson,16,Hero,2017-01-18,"Raised in secret, now unleashed upon a world unprepared."
+465,Voltfire,,14,Antihero,1979-05-14,"Raised in secret, now unleashed upon a world unprepared."
+466,Ultrabolt,,16,Hero,1938-02-28,"Master of the arcane arts, wielder of forbidden knowledge."
+467,Quantumshield,Richard Taylor,3,Hero,1972-07-26,A vigilante who operates outside the law to protect the innocent.
+468,Titanarrow,Lisa Johnson,6,Neutral,1989-10-11,A former soldier seeking redemption through heroic deeds.
+469,Neoblade,Charles Lewis,16,Villain,2015-03-08,"Driven by tragedy, defined by an unbreakable will."
+470,Voltstrike,Nancy Young,9,Hero,1938-04-29,"Driven by tragedy, defined by an unbreakable will."
+471,Neonbolt,Jessica Thomas,14,Hero,2017-08-02,A former soldier seeking redemption through heroic deeds.
+472,Alphafist,Maria Miller,12,Villain,1959-09-16,A cosmic entity whose motives remain ambiguous to all.
+473,Blazeman,,3,Villain,1975-02-10,A cosmic entity whose motives remain ambiguous to all.
+474,Solarhunter,Thomas Davis,15,Hero,2008-07-24,"Gifted with powers beyond comprehension, burdened by their weight."
+475,Alphamind,David Robinson,2,Hero,2012-05-01,"Once a villain, now fighting for the side of good."
+476,Blazestrike,Robert Harris,16,Villain,1986-10-21,A cosmic entity whose motives remain ambiguous to all.
+477,Megahawk,Sarah Anderson,10,Villain,1938-01-08,"Once a villain, now fighting for the side of good."
+478,Blazehawk,Thomas Anderson,20,Villain,1961-12-14,"Once a villain, now fighting for the side of good."
+479,Voidfist,Nancy Davis,10,Villain,1946-04-26,A cosmic entity whose motives remain ambiguous to all.
+480,Hyperwave,Barbara Jackson,12,Antihero,1958-02-13,A mercenary with a strict personal code of honor.
+481,Voidstrike,,2,Antihero,1944-01-20,A vigilante who operates outside the law to protect the innocent.
+482,Plasmawave,Richard Miller,12,Villain,1983-04-08,A mercenary with a strict personal code of honor.
+483,Blazewing,Maria Taylor,10,Hero,2005-09-16,A vigilante who operates outside the law to protect the innocent.
+484,Ultrafist,Karen Harris,6,Hero,1955-05-19,"Once a villain, now fighting for the side of good."
+485,Shadowfire,Charles Thompson,6,Hero,1988-07-11,A vigilante who operates outside the law to protect the innocent.
+486,Shadowstar,Charles Williams,5,Villain,1992-02-28,A vigilante who operates outside the law to protect the innocent.
+487,Plasmalance,Linda Martin,2,Hero,1948-12-18,"Master of the arcane arts, wielder of forbidden knowledge."
+488,Blazeshield,,13,Villain,1943-01-27,A former soldier seeking redemption through heroic deeds.
+489,Blazearrow,Maria Harris,1,Hero,1961-07-11,A former soldier seeking redemption through heroic deeds.
+490,Omegawave,,7,Hero,1976-02-12,"Gifted with powers beyond comprehension, burdened by their weight."
+491,Ultrawoman,Charles Johnson,2,Villain,1984-07-26,"Master of the arcane arts, wielder of forbidden knowledge."
+492,Neonstar,Richard Johnson,17,Antihero,2022-08-13,"Master of the arcane arts, wielder of forbidden knowledge."
+493,Quantumarrow,Lisa Davis,1,Hero,1993-12-29,The last survivor of a destroyed civilization seeking justice.
+494,Ultraclaw,Susan Thomas,16,Hero,2023-11-08,A cosmic entity whose motives remain ambiguous to all.
+495,Ironstorm,Patricia Lewis,5,Hero,1949-07-01,The last survivor of a destroyed civilization seeking justice.
+496,Blazemind,,18,Hero,1970-04-09,"Raised in secret, now unleashed upon a world unprepared."
+497,Shadowveil,Joseph Garcia,9,Antihero,1966-04-29,"Master of the arcane arts, wielder of forbidden knowledge."
+498,Neonblade,Michael Wilson,1,Antihero,1977-01-20,A former soldier seeking redemption through heroic deeds.
+499,Shadowstorm,Jessica Garcia,6,Antihero,1972-05-19,A vigilante who operates outside the law to protect the innocent.
+500,Ironblade,Charles Anderson,20,Hero,1987-09-27,A cosmic entity whose motives remain ambiguous to all.
+501,Hyperforce,Nancy Johnson,13,Villain,1939-09-19,"Driven by tragedy, defined by an unbreakable will."
+502,Acidveil,,6,Antihero,1963-01-02,"Driven by tragedy, defined by an unbreakable will."
+503,Voidfire,Charles Martin,5,Villain,1958-03-30,"Driven by tragedy, defined by an unbreakable will."
+504,Alphaclaw,Charles Martin,14,Antihero,1959-07-09,A vigilante who operates outside the law to protect the innocent.
+505,Alphaveil,Joseph Miller,2,Villain,2023-12-22,"Gifted with powers beyond comprehension, burdened by their weight."
+506,Ultraclaw,Lisa Miller,4,Hero,1996-05-28,"Once a villain, now fighting for the side of good."
+507,Ultrafist,,13,Hero,1961-07-15,"Driven by tragedy, defined by an unbreakable will."
+508,Alphaveil,Charles Thomas,8,Hero,1941-10-25,A vigilante who operates outside the law to protect the innocent.
+509,Neoveil,,17,Hero,1969-04-20,A cosmic entity whose motives remain ambiguous to all.
+510,Neowing,Nancy Miller,14,Hero,1987-03-18,"Raised in secret, now unleashed upon a world unprepared."
+511,Blazestorm,Lisa Taylor,20,Hero,1963-04-02,"Once a villain, now fighting for the side of good."
+512,Voltlance,Linda Thompson,1,Villain,1988-10-07,The last survivor of a destroyed civilization seeking justice.
+513,Quantumhunter,Patricia Jones,8,Hero,1965-07-16,"Raised in secret, now unleashed upon a world unprepared."
+514,Voltfist,,8,Hero,1996-09-29,"Gifted with powers beyond comprehension, burdened by their weight."
+515,Omegawoman,,6,Hero,1966-08-23,"Raised in secret, now unleashed upon a world unprepared."
+516,Solarstar,,18,Antihero,2003-04-05,"Gifted with powers beyond comprehension, burdened by their weight."
+517,Voltarrow,Karen Smith,17,Villain,1950-02-02,"Once a villain, now fighting for the side of good."
+518,Quantumarrow,Maria Jones,20,Antihero,2009-03-15,The last survivor of a destroyed civilization seeking justice.
+519,Quantumman,James White,15,Villain,1976-05-07,"Driven by tragedy, defined by an unbreakable will."
+520,Thunderforce,Michael Wilson,4,Neutral,1997-06-30,"Driven by tragedy, defined by an unbreakable will."
+521,Neonforce,Joseph Davis,8,Villain,1995-06-05,A former soldier seeking redemption through heroic deeds.
+522,Shadowbolt,Richard Brown,12,Antihero,1989-09-14,A cosmic entity whose motives remain ambiguous to all.
+523,Quantumclaw,Lisa White,15,Neutral,2014-08-15,A vigilante who operates outside the law to protect the innocent.
+524,Thunderman,Lisa Smith,7,Villain,1970-10-07,"Raised in secret, now unleashed upon a world unprepared."
+525,Plasmahunter,James Jackson,3,Neutral,1976-01-07,"Driven by tragedy, defined by an unbreakable will."
+526,Alphawing,,8,Hero,1945-11-10,"Master of the arcane arts, wielder of forbidden knowledge."
+527,Megaveil,John Harris,11,Hero,1977-05-24,A former soldier seeking redemption through heroic deeds.
+528,Solararrow,Richard Jones,7,Hero,1959-11-01,"Driven by tragedy, defined by an unbreakable will."
+529,Frostveil,Susan Smith,17,Neutral,2001-11-11,A cosmic entity whose motives remain ambiguous to all.
+530,Thunderstar,Jessica Young,15,Hero,1950-11-15,"Driven by tragedy, defined by an unbreakable will."
+531,Blazefist,Nancy Martin,16,Hero,1969-06-01,A former soldier seeking redemption through heroic deeds.
+532,Shadowshield,Robert Garcia,17,Villain,1994-10-18,A cosmic entity whose motives remain ambiguous to all.
+533,Solarblade,Susan Lewis,19,Villain,1951-01-06,A mercenary with a strict personal code of honor.
+534,Thunderarrow,Michael Garcia,7,Hero,1988-11-25,"Once a villain, now fighting for the side of good."
+535,Plasmaman,Patricia Taylor,16,Antihero,2011-05-26,A former soldier seeking redemption through heroic deeds.
+536,Ultraveil,James Wilson,19,Villain,1964-06-04,A former soldier seeking redemption through heroic deeds.
+537,Omegawave,John Davis,15,Antihero,1981-03-17,The last survivor of a destroyed civilization seeking justice.
+538,Thunderwave,,14,Villain,1950-06-08,"Once a villain, now fighting for the side of good."
+539,Thundermind,,20,Villain,1993-02-05,A vigilante who operates outside the law to protect the innocent.
+540,Frostmind,David Lewis,3,Villain,1948-08-27,"Raised in secret, now unleashed upon a world unprepared."
+541,Alphafist,Nancy Johnson,17,Hero,2003-01-02,"Raised in secret, now unleashed upon a world unprepared."
+542,Titanarrow,Jessica Jones,8,Neutral,1953-07-03,The last survivor of a destroyed civilization seeking justice.
+543,Acidfire,,6,Antihero,2007-03-10,"Once a villain, now fighting for the side of good."
+544,Neostrike,Thomas Thompson,15,Villain,1989-09-16,The last survivor of a destroyed civilization seeking justice.
+545,Thunderfire,Karen Robinson,2,Hero,1985-12-03,"Driven by tragedy, defined by an unbreakable will."
+546,Neowave,William White,5,Antihero,2007-05-01,"Master of the arcane arts, wielder of forbidden knowledge."
+547,Acidmind,Michael Martin,20,Villain,2000-08-10,A former soldier seeking redemption through heroic deeds.
+548,Ironwing,,6,Hero,1972-07-29,A vigilante who operates outside the law to protect the innocent.
+549,Hyperwoman,William White,8,Villain,1974-02-23,A mercenary with a strict personal code of honor.
+550,Hyperfire,David Lewis,19,Villain,1949-04-18,A mercenary with a strict personal code of honor.
+551,Solarbolt,,17,Neutral,2016-06-22,"Master of the arcane arts, wielder of forbidden knowledge."
+552,Shadowfist,Maria White,5,Antihero,2002-10-19,"Once a villain, now fighting for the side of good."
+553,Thunderveil,Michael Johnson,15,Hero,2010-11-23,The last survivor of a destroyed civilization seeking justice.
+554,Alphaarrow,Michael Garcia,7,Villain,1998-02-21,The last survivor of a destroyed civilization seeking justice.
+555,Voltclaw,Lisa Taylor,17,Hero,1965-12-16,A vigilante who operates outside the law to protect the innocent.
+556,Ultrahawk,Nancy Miller,19,Antihero,1960-12-04,The last survivor of a destroyed civilization seeking justice.
+557,Blazeveil,Charles Young,17,Villain,1954-02-10,"Master of the arcane arts, wielder of forbidden knowledge."
+558,Omegastorm,Robert Wilson,13,Antihero,2012-04-29,"Once a villain, now fighting for the side of good."
+559,Neoveil,Nancy Harris,1,Villain,1975-05-08,A mercenary with a strict personal code of honor.
+560,Megahunter,Barbara Brown,18,Villain,2008-02-22,The last survivor of a destroyed civilization seeking justice.
+561,Ultrawing,Robert Williams,10,Hero,1941-02-13,"Driven by tragedy, defined by an unbreakable will."
+562,Quantumstrike,Joseph Thomas,4,Villain,1998-06-08,A vigilante who operates outside the law to protect the innocent.
+563,Alphamind,William Garcia,6,Villain,1995-04-21,"Raised in secret, now unleashed upon a world unprepared."
+564,Ironforce,,19,Hero,1940-09-13,"Raised in secret, now unleashed upon a world unprepared."
+565,Steelfist,Sarah Williams,4,Villain,1940-09-08,"Driven by tragedy, defined by an unbreakable will."
+566,Alphamind,Richard Wilson,7,Hero,1971-01-02,"Driven by tragedy, defined by an unbreakable will."
+567,Ultrafist,David White,13,Antihero,1984-08-22,"Once a villain, now fighting for the side of good."
+568,Neonarrow,James Robinson,20,Neutral,1968-07-09,"Raised in secret, now unleashed upon a world unprepared."
+569,Frostclaw,,14,Antihero,2023-11-05,A vigilante who operates outside the law to protect the innocent.
+570,Neoarrow,Jessica Jones,8,Villain,1979-11-08,"Master of the arcane arts, wielder of forbidden knowledge."
+571,Steelman,Richard Garcia,1,Villain,1976-05-31,"Raised in secret, now unleashed upon a world unprepared."
+572,Shadowbolt,Joseph Davis,2,Villain,1939-05-03,The last survivor of a destroyed civilization seeking justice.
+573,Hyperhunter,,6,Hero,1960-01-01,"Driven by tragedy, defined by an unbreakable will."
+574,Megafire,James Jackson,11,Antihero,1956-01-31,A cosmic entity whose motives remain ambiguous to all.
+575,Shadowhawk,Susan Taylor,9,Antihero,1942-10-31,A mercenary with a strict personal code of honor.
+576,Voidstar,Joseph Taylor,19,Antihero,1961-07-29,"Master of the arcane arts, wielder of forbidden knowledge."
+577,Voltfist,Karen Young,6,Hero,1990-07-26,A cosmic entity whose motives remain ambiguous to all.
+578,Neoforce,Karen Lewis,11,Villain,1963-09-28,A vigilante who operates outside the law to protect the innocent.
+579,Thunderbolt,,2,Hero,1985-11-26,"Gifted with powers beyond comprehension, burdened by their weight."
+580,Acidveil,Charles Taylor,14,Neutral,2000-05-21,"Driven by tragedy, defined by an unbreakable will."
+581,Omegaman,,2,Hero,2013-08-22,A mercenary with a strict personal code of honor.
+582,Solarmind,,11,Hero,1959-11-16,A vigilante who operates outside the law to protect the innocent.
+583,Acidlance,Susan Garcia,7,Hero,1965-03-16,A cosmic entity whose motives remain ambiguous to all.
+584,Blazehunter,James Anderson,15,Villain,2021-02-17,A vigilante who operates outside the law to protect the innocent.
+585,Solarstar,Patricia Miller,11,Hero,2000-09-25,"Once a villain, now fighting for the side of good."
+586,Hyperwave,,18,Antihero,1953-03-20,A mercenary with a strict personal code of honor.
+587,Acidhawk,,20,Hero,2010-10-11,"Once a villain, now fighting for the side of good."
+588,Solarhunter,Barbara Harris,4,Villain,1954-10-28,"Master of the arcane arts, wielder of forbidden knowledge."
+589,Hyperman,William Thompson,15,Antihero,1981-06-30,A vigilante who operates outside the law to protect the innocent.
+590,Voltfist,,8,Hero,1968-11-21,A former soldier seeking redemption through heroic deeds.
+591,Neonman,James Anderson,16,Villain,2013-09-03,A former soldier seeking redemption through heroic deeds.
+592,Alphaarrow,Robert Martin,7,Hero,2018-08-12,A vigilante who operates outside the law to protect the innocent.
+593,Blazewave,Joseph Martin,12,Neutral,1999-01-28,A former soldier seeking redemption through heroic deeds.
+594,Voidlance,Nancy Thompson,18,Villain,2008-07-18,"Once a villain, now fighting for the side of good."
+595,Quantumstorm,John Martin,9,Hero,1957-05-23,"Gifted with powers beyond comprehension, burdened by their weight."
+596,Steelstrike,,4,Antihero,2006-06-09,"Gifted with powers beyond comprehension, burdened by their weight."
+597,Blazewave,,15,Antihero,1977-12-28,A former soldier seeking redemption through heroic deeds.
+598,Frostarrow,Richard Thompson,12,Antihero,1947-11-19,A cosmic entity whose motives remain ambiguous to all.
+599,Ultrashield,,4,Villain,1999-08-29,A vigilante who operates outside the law to protect the innocent.
+600,Hyperwave,Susan Jackson,20,Antihero,1938-06-14,"Gifted with powers beyond comprehension, burdened by their weight."
