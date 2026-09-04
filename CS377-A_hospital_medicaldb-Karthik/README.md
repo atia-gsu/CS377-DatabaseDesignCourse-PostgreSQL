@@ -105,13 +105,13 @@ CS377-A_hospital_medicaldb/
 - **patient**: stores patient information
 
 <p align="left">
-  <img src="/CS377-A_hospital_medicaldb/images/patient.png" width="300"/>
+  <img src="/CS377-A_hospital_medicaldb-Karthik/patient.png" width="300"/>
 </p>
 
 - **doctor**: stores doctor details 
 
 <p align="left">
-  <img src="/CS377-A_hospital_medicaldb/images/doctor.png" width="300"/>
+  <img src="/CS377-A_hospital_medicaldb-Karthik/doctor.png" width="300"/>
 </p>
 
 - **appointments**: tracks patients appointments with their doctor
@@ -123,25 +123,25 @@ CS377-A_hospital_medicaldb/
 - **med_test**: stores medical test results 
 
 <p align="left">
-  <img src="/CS377-A_hospital_medicaldb/images/med_test.png" width="300"/>
+  <img src="/CS377-A_hospital_medicaldb-Karthik/med_test.png" width="300"/>
 </p>
 
 - **medicine_price**: stores medicine pricing
 
 <p align="left">
-  <img src="/CS377-A_hospital_medicaldb/images/medicine_price.png" width="300"/>
+  <img src="/CS377-A_hospital_medicaldb-Karthik/medicine_price.png" width="300"/>
 </p>
 
 - **prescriptions**: records prescriptions issued 
 
 <p align="left">
-  <img src="/CS377-A_hospital_medicaldb/images/prescriptions.png" width="300"/>
+  <img src="/CS377-A_hospital_medicaldb-Karthik/prescriptions.png" width="300"/>
 </p>
 
 - **prescription_medicine**: links prescriptions with medicines 
 
 <p align="left">
-  <img src="/CS377-A_hospital_medicaldb/images/prescriptions_medicine.png" width="300"/>
+  <img src="/CS377-A_hospital_medicaldb-Karthik/prescriptions_medicine.png" width="300"/>
 </p>
 
 ---
@@ -149,7 +149,7 @@ CS377-A_hospital_medicaldb/
 ## ERD Diagram:
 
 <p align="center">
-  <img src="/CS377-A_hospital_medicaldb/images/Hospital_meddb_ERD_Diagram.png" width="300"/>
+  <img src="/CS377-A_hospital_medicaldb-Karthik/Hospital_meddb_ERD_Diagram.png" width="300"/>
 </p>
 
 ---
