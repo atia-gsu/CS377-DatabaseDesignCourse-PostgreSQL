@@ -117,7 +117,7 @@ CS377-A_hospital_medicaldb/
 - **appointments**: tracks patients appointments with their doctor
 
 <p align="left">
-  <img src="/CS377-A_hospital_medicaldb/images/appointments.png" width="300"/>
+  <img src="/CS377-A_hospital_medicaldb-Karthik/appointments.png" width="300"/>
 </p>
 
 - **med_test**: stores medical test results 
