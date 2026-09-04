@@ -1,0 +1,17 @@
+pokemondb
+
+I created a database that contains information on all Pokémon cards that exist including the raw price of each card.
+This database is for those who want to know more about Pokémon cards in general whether this includes the price of each card, the card count in each set, how many artists are there and what cards they created, etc.
+
+This was created using...
+PostgreSQL
+pgadmin
+.csv files
+
+How to run
+1. Open pgadmin
+2. Create database pokemondb
+3. Create the 6 main tables
+4. Create table poke_data to insert main data from csv file into database.
+5. Insert new data from poke_data into the 6 main tables created earlier.
+6. Run queries.
